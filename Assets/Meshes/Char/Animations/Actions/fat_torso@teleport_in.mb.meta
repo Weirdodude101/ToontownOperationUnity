@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: d501c2f09bceda6499910cb84926587e
+timeCreated: 1493073379
+licenseType: Free
+ModelImporter:
+  serializedVersion: 20
+  fileIDToRecycleName:
+    100000: arms
+    100002: def_cageA
+    100004: def_cageB
+    100006: def_head
+    100008: def_head 1
+    100010: def_joint_attachFlower
+    100012: def_joint_attachFlower 1
+    100014: def_joint_left_hold
+    100016: def_joint_left_hold 1
+    100018: def_joint_right_hold
+    100020: def_joint_right_hold 1
+    100022: def_left_elbow
+    100024: def_left_forearm
+    100026: def_left_hip
+    100028: def_left_knee
+    100030: def_left_midA
+    100032: def_left_midB
+    100034: def_left_neg_wrist
+    100036: def_left_palm
+    100038: def_left_pant_bottom
+    100040: def_left_pant_top
+    100042: def_left_shoulder
+    100044: def_left_sleeve_long
+    100046: def_left_sleeve_short
+    100048: def_left_thumbA
+    100050: def_left_thumbB
+    100052: def_left_thumbC
+    100054: def_left_wrist
+    100056: def_neck
+    100058: def_right_elbow
+    100060: def_right_forearm
+    100062: def_right_hip
+    100064: def_right_midA
+    100066: def_right_midB
+    100068: def_right_neg_wrist
+    100070: def_right_palm
+    100072: def_right_pant_bottom
+    100074: def_right_pant_top
+    100076: def_right_shoulder
+    100078: def_right_sleeve_long
+    100080: def_right_sleeve_short
+    100082: def_right_thumbA
+    100084: def_right_thumbB
+    100086: def_right_thumbC
+    100088: def_right_wrist
+    100090: def_spineB
+    100092: //RootNode
+    100094: hands
+    100096: neck
+    100098: root
+    100100: sleeves
+    100102: torso_bot
+    100104: torso_bot_cap
+    100106: torso_top
+    400000: arms
+    400002: def_cageA
+    400004: def_cageB
+    400006: def_head
+    400008: def_head 1
+    400010: def_joint_attachFlower
+    400012: def_joint_attachFlower 1
+    400014: def_joint_left_hold
+    400016: def_joint_left_hold 1
+    400018: def_joint_right_hold
+    400020: def_joint_right_hold 1
+    400022: def_left_elbow
+    400024: def_left_forearm
+    400026: def_left_hip
+    400028: def_left_knee
+    400030: def_left_midA
+    400032: def_left_midB
+    400034: def_left_neg_wrist
+    400036: def_left_palm
+    400038: def_left_pant_bottom
+    400040: def_left_pant_top
+    400042: def_left_shoulder
+    400044: def_left_sleeve_long
+    400046: def_left_sleeve_short
+    400048: def_left_thumbA
+    400050: def_left_thumbB
+    400052: def_left_thumbC
+    400054: def_left_wrist
+    400056: def_neck
+    400058: def_right_elbow
+    400060: def_right_forearm
+    400062: def_right_hip
+    400064: def_right_midA
+    400066: def_right_midB
+    400068: def_right_neg_wrist
+    400070: def_right_palm
+    400072: def_right_pant_bottom
+    400074: def_right_pant_top
+    400076: def_right_shoulder
+    400078: def_right_sleeve_long
+    400080: def_right_sleeve_short
+    400082: def_right_thumbA
+    400084: def_right_thumbB
+    400086: def_right_thumbC
+    400088: def_right_wrist
+    400090: def_spineB
+    400092: //RootNode
+    400094: hands
+    400096: neck
+    400098: root
+    400100: sleeves
+    400102: torso_bot
+    400104: torso_bot_cap
+    400106: torso_top
+    4300000: neck
+    4300002: hands
+    4300004: arms
+    4300006: torso_bot
+    4300008: torso_bot_cap
+    4300010: torso_top
+    4300012: sleeves
+    7400000: fat_torso@teleport_in
+    9500000: //RootNode
+    13700000: arms
+    13700002: hands
+    13700004: neck
+    13700006: sleeves
+    13700008: torso_bot
+    13700010: torso_bot_cap
+    13700012: torso_top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fat_torso@teleport_in
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

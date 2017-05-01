@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: d709c5250e96b7e4ab9d4cad511e1bdd
+timeCreated: 1491669471
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _safe_zone
+    100002: A
+    100004: ambient_1
+    100006: baseline
+    100008: baseline1
+    100010: bboxLines
+    100012: buildings
+    100014: cam
+    100016: camera
+    100018: camera_collisions
+    100020: camera_collisions_1
+    100022: camManipRef
+    100024: cityhall
+    100026: coaMarkerRef
+    100028: coll
+    100030: collisionNP
+    100032: cRayNode
+    100034: cSphereNode
+    100036: DIRECT
+    100038: DIRECT_Lights
+    100040: directional_1
+    100042: door_double_round_ur
+    100044: door_double_round_ur_flat
+    100046: door_trigger_13
+    100048: doorFrameHoleLeft
+    100050: doorFrameHoleRight
+    100052: fishing_pond_1
+    100054: floor_collision
+    100056: geom
+    100058: guideLines
+    100060: H
+    100062: i
+    100064: L
+    100066: L1
+    100068: left_column
+    100070: left_column_coll
+    100072: leftDoor
+    100074: LevelEditor
+    100076: manipRef
+    100078: N
+    100080: n
+    100082: npc_fisherman_origin_0
+    100084: npc_origin_3
+    100086: O
+    100088: O1
+    100090: objectHandles
+    100092: props
+    100094: right_column
+    100096: right_column_collide
+    100098: rightDoor
+    100100: shadow
+    100102: sign
+    100104: sign_decal
+    100106: sign_origin
+    100108: stoop
+    100110: suit_building_origin
+    100112: suitPoints
+    100114: sz13_toon_landmark_TT_toonhall_DNARoot
+    100116: T
+    100118: t
+    100120: text
+    100122: text 1
+    100124: text 10
+    100126: text 11
+    100128: text 12
+    100130: text 13
+    100132: text 14
+    100134: text 2
+    100136: text 3
+    100138: text 4
+    100140: text 5
+    100142: text 6
+    100144: text 7
+    100146: text 8
+    100148: text 9
+    100150: //RootNode
+    100152: toonhall_door_origin
+    100154: toonhall_front
+    100156: toonhall_roof_tower
+    100158: toontownCentral
+    100160: transform1
+    100162: transform2
+    100164: U
+    100166: unnamed1
+    100168: unnamed2
+    100170: unnamed3
+    100172: unnamed4
+    100174: unnamed5
+    100176: unnamed6
+    100178: wall_shadow
+    100180: windows
+    100182: x_guide
+    100184: y
+    100186: y_guide
+    100188: z_guide
+    400000: _safe_zone
+    400002: A
+    400004: ambient_1
+    400006: baseline
+    400008: baseline1
+    400010: bboxLines
+    400012: buildings
+    400014: cam
+    400016: camera
+    400018: camera_collisions
+    400020: camera_collisions_1
+    400022: camManipRef
+    400024: cityhall
+    400026: coaMarkerRef
+    400028: coll
+    400030: collisionNP
+    400032: cRayNode
+    400034: cSphereNode
+    400036: DIRECT
+    400038: DIRECT_Lights
+    400040: directional_1
+    400042: door_double_round_ur
+    400044: door_double_round_ur_flat
+    400046: door_trigger_13
+    400048: doorFrameHoleLeft
+    400050: doorFrameHoleRight
+    400052: fishing_pond_1
+    400054: floor_collision
+    400056: geom
+    400058: guideLines
+    400060: H
+    400062: i
+    400064: L
+    400066: L1
+    400068: left_column
+    400070: left_column_coll
+    400072: leftDoor
+    400074: LevelEditor
+    400076: manipRef
+    400078: N
+    400080: n
+    400082: npc_fisherman_origin_0
+    400084: npc_origin_3
+    400086: O
+    400088: O1
+    400090: objectHandles
+    400092: props
+    400094: right_column
+    400096: right_column_collide
+    400098: rightDoor
+    400100: shadow
+    400102: sign
+    400104: sign_decal
+    400106: sign_origin
+    400108: stoop
+    400110: suit_building_origin
+    400112: suitPoints
+    400114: sz13_toon_landmark_TT_toonhall_DNARoot
+    400116: T
+    400118: t
+    400120: text
+    400122: text 1
+    400124: text 10
+    400126: text 11
+    400128: text 12
+    400130: text 13
+    400132: text 14
+    400134: text 2
+    400136: text 3
+    400138: text 4
+    400140: text 5
+    400142: text 6
+    400144: text 7
+    400146: text 8
+    400148: text 9
+    400150: //RootNode
+    400152: toonhall_door_origin
+    400154: toonhall_front
+    400156: toonhall_roof_tower
+    400158: toontownCentral
+    400160: transform1
+    400162: transform2
+    400164: U
+    400166: unnamed1
+    400168: unnamed2
+    400170: unnamed3
+    400172: unnamed4
+    400174: unnamed5
+    400176: unnamed6
+    400178: wall_shadow
+    400180: windows
+    400182: x_guide
+    400184: y
+    400186: y_guide
+    400188: z_guide
+    2300000: camera_collisions
+    2300002: camera_collisions_1
+    2300004: door_double_round_ur_flat
+    2300006: door_trigger_13
+    2300008: floor_collision
+    2300010: left_column
+    2300012: left_column_coll
+    2300014: leftDoor
+    2300016: right_column
+    2300018: right_column_collide
+    2300020: rightDoor
+    2300022: shadow
+    2300024: stoop
+    2300026: text
+    2300028: text 1
+    2300030: text 10
+    2300032: text 11
+    2300034: text 12
+    2300036: text 13
+    2300038: text 14
+    2300040: text 2
+    2300042: text 3
+    2300044: text 4
+    2300046: text 5
+    2300048: text 6
+    2300050: text 7
+    2300052: toonhall_roof_tower
+    2300054: unnamed1
+    2300056: unnamed2
+    2300058: unnamed3
+    2300060: unnamed4
+    2300062: unnamed5
+    2300064: unnamed6
+    2300066: wall_shadow
+    3300000: camera_collisions
+    3300002: camera_collisions_1
+    3300004: door_double_round_ur_flat
+    3300006: door_trigger_13
+    3300008: floor_collision
+    3300010: left_column
+    3300012: left_column_coll
+    3300014: leftDoor
+    3300016: right_column
+    3300018: right_column_collide
+    3300020: rightDoor
+    3300022: shadow
+    3300024: stoop
+    3300026: text
+    3300028: text 1
+    3300030: text 10
+    3300032: text 11
+    3300034: text 12
+    3300036: text 13
+    3300038: text 14
+    3300040: text 2
+    3300042: text 3
+    3300044: text 4
+    3300046: text 5
+    3300048: text 6
+    3300050: text 7
+    3300052: toonhall_roof_tower
+    3300054: unnamed1
+    3300056: unnamed2
+    3300058: unnamed3
+    3300060: unnamed4
+    3300062: unnamed5
+    3300064: unnamed6
+    3300066: wall_shadow
+    4300000: toonhall_roof_tower
+    4300002: unnamed1
+    4300004: unnamed2
+    4300006: unnamed3
+    4300008: door_double_round_ur_flat
+    4300010: unnamed4
+    4300012: unnamed5
+    4300014: unnamed6
+    4300016: text
+    4300018: text
+    4300020: text
+    4300022: text
+    4300024: text
+    4300026: text
+    4300028: text
+    4300030: text
+    4300032: text
+    4300034: text
+    4300036: text
+    4300038: text
+    4300040: text
+    4300042: stoop
+    4300044: wall_shadow
+    4300046: shadow
+    4300048: left_column
+    4300050: right_column
+    4300052: camera_collisions
+    4300054: camera_collisions_1
+    4300056: floor_collision
+    4300058: left_column_coll
+    4300060: right_column_collide
+    4300062: rightDoor
+    4300064: leftDoor
+    4300066: door_trigger_13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

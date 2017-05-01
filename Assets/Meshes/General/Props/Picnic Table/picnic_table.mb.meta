@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 542ea1033440bed44ae092ebb2ac68f1
+timeCreated: 1492967390
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: basket_locator
+    100002: bench1
+    100004: bench2
+    100006: group3
+    100008: group3 1
+    100010: jumpOut1
+    100012: jumpOut2
+    100014: jumpOut3
+    100016: jumpOut4
+    100018: pCube2
+    100020: pCube2 1
+    100022: pCube2 2
+    100024: pCube2 3
+    100026: pCube3
+    100028: pCube3 1
+    100030: pCube3 2
+    100032: pCube3 3
+    100034: pCube4
+    100036: pCube4 1
+    100038: //RootNode
+    100040: picnic_table
+    100042: pPlane2
+    100044: seat1
+    100046: seat2
+    100048: seat3
+    100050: seat4
+    100052: shadow1
+    100054: table_cloth
+    100056: table_leg1
+    100058: table_leg2
+    100060: table_leg3
+    100062: table_leg4
+    100064: table_top
+    100066: tablecloth
+    400000: basket_locator
+    400002: bench1
+    400004: bench2
+    400006: group3
+    400008: group3 1
+    400010: jumpOut1
+    400012: jumpOut2
+    400014: jumpOut3
+    400016: jumpOut4
+    400018: pCube2
+    400020: pCube2 1
+    400022: pCube2 2
+    400024: pCube2 3
+    400026: pCube3
+    400028: pCube3 1
+    400030: pCube3 2
+    400032: pCube3 3
+    400034: pCube4
+    400036: pCube4 1
+    400038: //RootNode
+    400040: picnic_table
+    400042: pPlane2
+    400044: seat1
+    400046: seat2
+    400048: seat3
+    400050: seat4
+    400052: shadow1
+    400054: table_cloth
+    400056: table_leg1
+    400058: table_leg2
+    400060: table_leg3
+    400062: table_leg4
+    400064: table_top
+    400066: tablecloth
+    2300000: pCube2
+    2300002: pCube2 1
+    2300004: pCube2 2
+    2300006: pCube2 3
+    2300008: pCube3
+    2300010: pCube3 1
+    2300012: pCube3 2
+    2300014: pCube3 3
+    2300016: pCube4
+    2300018: pCube4 1
+    2300020: pPlane2
+    2300022: shadow1
+    2300024: table_leg1
+    2300026: table_leg2
+    2300028: table_leg3
+    2300030: table_leg4
+    2300032: table_top
+    2300034: tablecloth
+    3300000: pCube2
+    3300002: pCube2 1
+    3300004: pCube2 2
+    3300006: pCube2 3
+    3300008: pCube3
+    3300010: pCube3 1
+    3300012: pCube3 2
+    3300014: pCube3 3
+    3300016: pCube4
+    3300018: pCube4 1
+    3300020: pPlane2
+    3300022: shadow1
+    3300024: table_leg1
+    3300026: table_leg2
+    3300028: table_leg3
+    3300030: table_leg4
+    3300032: table_top
+    3300034: tablecloth
+    4300000: table_top
+    4300002: table_leg1
+    4300004: table_leg2
+    4300006: table_leg3
+    4300008: table_leg4
+    4300010: pCube2
+    4300012: pCube3
+    4300014: pCube4
+    4300016: pCube2
+    4300018: pCube3
+    4300020: pCube2
+    4300022: pCube3
+    4300024: pCube4
+    4300026: pCube2
+    4300028: pCube3
+    4300030: shadow1
+    4300032: tablecloth
+    4300034: pPlane2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

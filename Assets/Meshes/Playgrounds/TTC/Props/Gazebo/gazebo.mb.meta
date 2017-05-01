@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 6f47b5c18404d7e489dec1d251c56ae4
+timeCreated: 1491514464
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: fence
+    100004: //RootNode
+    100006: gazebo_collisions
+    100008: gazebo_floor_collisions
+    100010: gazebo_ground_top
+    100012: gazebo_post_1
+    100014: gazebo_post_2
+    100016: gazebo_post_3
+    100018: gazebo_post_4
+    100020: gazebo_post_5
+    100022: gazebo_post_6
+    100024: gazebo_posts
+    100026: gazebo_roof
+    100028: gazebo_stairs
+    100030: gazebo_stairs_1
+    100032: gazebo_stairs_3
+    100034: gazebo_wall_collisions
+    100036: o1
+    100038: o17
+    100040: o17_1
+    100042: o1_1
+    100044: o31
+    100046: o31_1
+    100048: o32
+    100050: o32_1
+    100052: o64
+    100054: o64_1
+    100056: o64_2
+    100058: o64_3
+    100060: o68
+    100062: o68_1
+    100064: o68_2
+    100066: o68_3
+    100068: o68_4
+    100070: o68_5
+    400000: base
+    400002: fence
+    400004: //RootNode
+    400006: gazebo_collisions
+    400008: gazebo_floor_collisions
+    400010: gazebo_ground_top
+    400012: gazebo_post_1
+    400014: gazebo_post_2
+    400016: gazebo_post_3
+    400018: gazebo_post_4
+    400020: gazebo_post_5
+    400022: gazebo_post_6
+    400024: gazebo_posts
+    400026: gazebo_roof
+    400028: gazebo_stairs
+    400030: gazebo_stairs_1
+    400032: gazebo_stairs_3
+    400034: gazebo_wall_collisions
+    400036: o1
+    400038: o17
+    400040: o17_1
+    400042: o1_1
+    400044: o31
+    400046: o31_1
+    400048: o32
+    400050: o32_1
+    400052: o64
+    400054: o64_1
+    400056: o64_2
+    400058: o64_3
+    400060: o68
+    400062: o68_1
+    400064: o68_2
+    400066: o68_3
+    400068: o68_4
+    400070: o68_5
+    2300000: base
+    2300002: fence
+    2300004: gazebo_floor_collisions
+    2300006: gazebo_ground_top
+    2300008: gazebo_post_1
+    2300010: gazebo_post_2
+    2300012: gazebo_post_3
+    2300014: gazebo_post_4
+    2300016: gazebo_post_5
+    2300018: gazebo_post_6
+    2300020: gazebo_roof
+    2300022: gazebo_stairs_1
+    2300024: gazebo_stairs_3
+    2300026: gazebo_wall_collisions
+    2300028: o1
+    2300030: o17
+    2300032: o17_1
+    2300034: o1_1
+    2300036: o31
+    2300038: o31_1
+    2300040: o32
+    2300042: o32_1
+    2300044: o68
+    2300046: o68_1
+    2300048: o68_2
+    2300050: o68_3
+    2300052: o68_4
+    2300054: o68_5
+    3300000: base
+    3300002: fence
+    3300004: gazebo_floor_collisions
+    3300006: gazebo_ground_top
+    3300008: gazebo_post_1
+    3300010: gazebo_post_2
+    3300012: gazebo_post_3
+    3300014: gazebo_post_4
+    3300016: gazebo_post_5
+    3300018: gazebo_post_6
+    3300020: gazebo_roof
+    3300022: gazebo_stairs_1
+    3300024: gazebo_stairs_3
+    3300026: gazebo_wall_collisions
+    3300028: o1
+    3300030: o17
+    3300032: o17_1
+    3300034: o1_1
+    3300036: o31
+    3300038: o31_1
+    3300040: o32
+    3300042: o32_1
+    3300044: o68
+    3300046: o68_1
+    3300048: o68_2
+    3300050: o68_3
+    3300052: o68_4
+    3300054: o68_5
+    4300000: gazebo_post_1
+    4300002: gazebo_post_2
+    4300004: gazebo_post_3
+    4300006: gazebo_post_4
+    4300008: gazebo_post_5
+    4300010: gazebo_post_6
+    4300012: gazebo_roof
+    4300014: gazebo_stairs_1
+    4300016: gazebo_ground_top
+    4300018: base
+    4300020: fence
+    4300022: o32
+    4300024: o31
+    4300026: o1
+    4300028: o17
+    4300030: o1_1
+    4300032: o31_1
+    4300034: o32_1
+    4300036: gazebo_stairs_3
+    4300038: o17_1
+    4300040: gazebo_wall_collisions
+    4300042: gazebo_floor_collisions
+    4300044: o68
+    4300046: o68_1
+    4300048: o68_2
+    4300050: o68_3
+    4300052: o68_4
+    4300054: o68_5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

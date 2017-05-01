@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 4b63230c4ba0d58408671d05badc8a3e
+timeCreated: 1491599119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: banners
+    100004: building_camera_collide
+    100006: building_front
+    100008: coll_backdoor_stair
+    100010: coll_floor
+    100012: coll_floor2
+    100014: coll_front_stair
+    100016: collisions
+    100018: front_entrance_flag
+    100020: front_stair
+    100022: left_col_back
+    100024: left_col_front
+    100026: left_column
+    100028: //RootNode
+    100030: library_door_origin
+    100032: main_building
+    100034: main_building_walls
+    100036: p214
+    100038: right_col_back
+    100040: right_col_front
+    100042: right_column
+    100044: romangate_pyramid_bottom
+    100046: sign_decal
+    100048: sign_origin
+    100050: square_drop_shadow
+    100052: stair
+    100054: suit_building_origin
+    400000: back
+    400002: banners
+    400004: building_camera_collide
+    400006: building_front
+    400008: coll_backdoor_stair
+    400010: coll_floor
+    400012: coll_floor2
+    400014: coll_front_stair
+    400016: collisions
+    400018: front_entrance_flag
+    400020: front_stair
+    400022: left_col_back
+    400024: left_col_front
+    400026: left_column
+    400028: //RootNode
+    400030: library_door_origin
+    400032: main_building
+    400034: main_building_walls
+    400036: p214
+    400038: right_col_back
+    400040: right_col_front
+    400042: right_column
+    400044: romangate_pyramid_bottom
+    400046: sign_decal
+    400048: sign_origin
+    400050: square_drop_shadow
+    400052: stair
+    400054: suit_building_origin
+    2300000: back
+    2300002: banners
+    2300004: building_camera_collide
+    2300006: building_front
+    2300008: coll_backdoor_stair
+    2300010: coll_floor
+    2300012: coll_floor2
+    2300014: coll_front_stair
+    2300016: front_stair
+    2300018: left_col_back
+    2300020: left_col_front
+    2300022: left_column
+    2300024: main_building
+    2300026: main_building_walls
+    2300028: p214
+    2300030: right_col_back
+    2300032: right_col_front
+    2300034: right_column
+    2300036: romangate_pyramid_bottom
+    2300038: sign_decal
+    2300040: square_drop_shadow
+    2300042: stair
+    3300000: back
+    3300002: banners
+    3300004: building_camera_collide
+    3300006: building_front
+    3300008: coll_backdoor_stair
+    3300010: coll_floor
+    3300012: coll_floor2
+    3300014: coll_front_stair
+    3300016: front_stair
+    3300018: left_col_back
+    3300020: left_col_front
+    3300022: left_column
+    3300024: main_building
+    3300026: main_building_walls
+    3300028: p214
+    3300030: right_col_back
+    3300032: right_col_front
+    3300034: right_column
+    3300036: romangate_pyramid_bottom
+    3300038: sign_decal
+    3300040: square_drop_shadow
+    3300042: stair
+    4300000: main_building
+    4300002: front_stair
+    4300004: romangate_pyramid_bottom
+    4300006: right_column
+    4300008: left_column
+    4300010: banners
+    4300012: main_building_walls
+    4300014: p214
+    4300016: building_front
+    4300018: sign_decal
+    4300020: coll_floor
+    4300022: coll_backdoor_stair
+    4300024: right_col_back
+    4300026: left_col_back
+    4300028: coll_floor2
+    4300030: building_camera_collide
+    4300032: coll_front_stair
+    4300034: left_col_front
+    4300036: right_col_front
+    4300038: back
+    4300040: stair
+    4300042: square_drop_shadow
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

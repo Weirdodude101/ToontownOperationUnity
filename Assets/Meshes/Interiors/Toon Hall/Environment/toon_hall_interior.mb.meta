@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 5e4354dc827d9da41ab3c7d31317f4d7
+timeCreated: 1492823056
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anvil
+    100002: Banana
+    100004: BikeHorn
+    100006: bucket
+    100008: chair
+    100010: collision
+    100012: collision 1
+    100014: collision 10
+    100016: collision 11
+    100018: collision 12
+    100020: collision 2
+    100022: collision 3
+    100024: collision 4
+    100026: collision 5
+    100028: collision 6
+    100030: collision 7
+    100032: collision 8
+    100034: collision 9
+    100036: collision_desk
+    100038: collision_doorStep
+    100040: collision_hallwayCeiling
+    100042: collision_hallwayWall
+    100044: collision_mainceiling
+    100046: collision_mainFloor
+    100048: collision_officeCeiling
+    100050: collision_officeFloor
+    100052: collision_officeWall
+    100054: collision_wall
+    100056: colllision_hallwayFloor
+    100058: CreamPie
+    100060: door_origin
+    100062: dropShadow
+    100064: dropshadow
+    100066: dropShadow 1
+    100068: dropShadow 10
+    100070: dropShadow 2
+    100072: dropShadow 3
+    100074: dropShadow 4
+    100076: dropShadow 5
+    100078: dropShadow 6
+    100080: dropShadow 7
+    100082: dropShadow 8
+    100084: dropShadow 9
+    100086: furniture_chair_space
+    100088: furniture_lamp_space
+    100090: furniture_sofa_space
+    100092: furniture_tallLamp_space
+    100094: gagAnvil
+    100096: gagAnvil_origin
+    100098: gagBanana
+    100100: gagBananaPeel_origin
+    100102: gagBikeHorn
+    100104: gagBikeHorn_origin
+    100106: gagCreamPie
+    100108: gagCreamPie_origin
+    100110: gagLipStick
+    100112: gagLipStick_origin
+    100114: gagMagnet
+    100116: gagMagnet_origin
+    100118: gagPictures
+    100120: gagPicturesAnvil
+    100122: gagPicturesBanana
+    100124: gagPicturesBikeHorn
+    100126: gagPicturesCreamPie
+    100128: gagPicturesLipStick
+    100130: gagPicturesMagnet
+    100132: gagPicturesTnt
+    100134: gagPicturesWaterGlass
+    100136: gagProps
+    100138: gagTNT
+    100140: gagTNT_origin
+    100142: gagWaterGlass_origin
+    100144: glass
+    100146: glasses
+    100148: hallway
+    100150: hallwayGroup
+    100152: lamp
+    100154: light1
+    100156: light2
+    100158: light3
+    100160: light4
+    100162: LipStick
+    100164: locators
+    100166: Magnet
+    100168: mainhall
+    100170: mainhallGroup
+    100172: npc_origin_0
+    100174: npc_origin_1
+    100176: npc_origin_2
+    100178: npc_origin_3
+    100180: office
+    100182: officeFurnitures
+    100184: officeGroup
+    100186: paintSplat
+    100188: pedestal
+    100190: prop_chair_space
+    100192: prop_lamp_space
+    100194: prop_sofa_space
+    100196: prop_tallLamp_space
+    100198: ropes_origin
+    100200: sign
+    100202: sillyMeter_origin
+    100204: sillyMeterSign_origin
+    100206: sillyOMeterSign
+    100208: sofa
+    100210: tallLamp
+    100212: TNT
+    100214: //RootNode
+    100216: townhall
+    100218: trophy1
+    100220: trophy2
+    100222: trophyFishing
+    100224: WaterGlass
+    400000: Anvil
+    400002: Banana
+    400004: BikeHorn
+    400006: bucket
+    400008: chair
+    400010: collision
+    400012: collision 1
+    400014: collision 10
+    400016: collision 11
+    400018: collision 12
+    400020: collision 2
+    400022: collision 3
+    400024: collision 4
+    400026: collision 5
+    400028: collision 6
+    400030: collision 7
+    400032: collision 8
+    400034: collision 9
+    400036: collision_desk
+    400038: collision_doorStep
+    400040: collision_hallwayCeiling
+    400042: collision_hallwayWall
+    400044: collision_mainceiling
+    400046: collision_mainFloor
+    400048: collision_officeCeiling
+    400050: collision_officeFloor
+    400052: collision_officeWall
+    400054: collision_wall
+    400056: colllision_hallwayFloor
+    400058: CreamPie
+    400060: door_origin
+    400062: dropShadow
+    400064: dropshadow
+    400066: dropShadow 1
+    400068: dropShadow 10
+    400070: dropShadow 2
+    400072: dropShadow 3
+    400074: dropShadow 4
+    400076: dropShadow 5
+    400078: dropShadow 6
+    400080: dropShadow 7
+    400082: dropShadow 8
+    400084: dropShadow 9
+    400086: furniture_chair_space
+    400088: furniture_lamp_space
+    400090: furniture_sofa_space
+    400092: furniture_tallLamp_space
+    400094: gagAnvil
+    400096: gagAnvil_origin
+    400098: gagBanana
+    400100: gagBananaPeel_origin
+    400102: gagBikeHorn
+    400104: gagBikeHorn_origin
+    400106: gagCreamPie
+    400108: gagCreamPie_origin
+    400110: gagLipStick
+    400112: gagLipStick_origin
+    400114: gagMagnet
+    400116: gagMagnet_origin
+    400118: gagPictures
+    400120: gagPicturesAnvil
+    400122: gagPicturesBanana
+    400124: gagPicturesBikeHorn
+    400126: gagPicturesCreamPie
+    400128: gagPicturesLipStick
+    400130: gagPicturesMagnet
+    400132: gagPicturesTnt
+    400134: gagPicturesWaterGlass
+    400136: gagProps
+    400138: gagTNT
+    400140: gagTNT_origin
+    400142: gagWaterGlass_origin
+    400144: glass
+    400146: glasses
+    400148: hallway
+    400150: hallwayGroup
+    400152: lamp
+    400154: light1
+    400156: light2
+    400158: light3
+    400160: light4
+    400162: LipStick
+    400164: locators
+    400166: Magnet
+    400168: mainhall
+    400170: mainhallGroup
+    400172: npc_origin_0
+    400174: npc_origin_1
+    400176: npc_origin_2
+    400178: npc_origin_3
+    400180: office
+    400182: officeFurnitures
+    400184: officeGroup
+    400186: paintSplat
+    400188: pedestal
+    400190: prop_chair_space
+    400192: prop_lamp_space
+    400194: prop_sofa_space
+    400196: prop_tallLamp_space
+    400198: ropes_origin
+    400200: sign
+    400202: sillyMeter_origin
+    400204: sillyMeterSign_origin
+    400206: sillyOMeterSign
+    400208: sofa
+    400210: tallLamp
+    400212: TNT
+    400214: //RootNode
+    400216: townhall
+    400218: trophy1
+    400220: trophy2
+    400222: trophyFishing
+    400224: WaterGlass
+    2300000: bucket
+    2300002: chair
+    2300004: collision
+    2300006: collision 1
+    2300008: collision 10
+    2300010: collision 11
+    2300012: collision 12
+    2300014: collision 2
+    2300016: collision 3
+    2300018: collision 4
+    2300020: collision 5
+    2300022: collision 6
+    2300024: collision 7
+    2300026: collision 8
+    2300028: collision 9
+    2300030: collision_desk
+    2300032: collision_doorStep
+    2300034: collision_hallwayCeiling
+    2300036: collision_hallwayWall
+    2300038: collision_mainceiling
+    2300040: collision_mainFloor
+    2300042: collision_officeCeiling
+    2300044: collision_officeFloor
+    2300046: collision_officeWall
+    2300048: collision_wall
+    2300050: colllision_hallwayFloor
+    2300052: dropShadow
+    2300054: dropshadow
+    2300056: dropShadow 1
+    2300058: dropShadow 10
+    2300060: dropShadow 2
+    2300062: dropShadow 3
+    2300064: dropShadow 4
+    2300066: dropShadow 5
+    2300068: dropShadow 6
+    2300070: dropShadow 7
+    2300072: dropShadow 8
+    2300074: dropShadow 9
+    2300076: gagAnvil
+    2300078: gagBanana
+    2300080: gagBikeHorn
+    2300082: gagCreamPie
+    2300084: gagLipStick
+    2300086: gagMagnet
+    2300088: gagPicturesAnvil
+    2300090: gagPicturesBanana
+    2300092: gagPicturesBikeHorn
+    2300094: gagPicturesCreamPie
+    2300096: gagPicturesLipStick
+    2300098: gagPicturesMagnet
+    2300100: gagPicturesTnt
+    2300102: gagPicturesWaterGlass
+    2300104: gagTNT
+    2300106: glass
+    2300108: glasses
+    2300110: hallway
+    2300112: lamp
+    2300114: light1
+    2300116: light2
+    2300118: light3
+    2300120: light4
+    2300122: mainhall
+    2300124: office
+    2300126: paintSplat
+    2300128: pedestal
+    2300130: sign
+    2300132: sofa
+    2300134: tallLamp
+    2300136: trophy1
+    2300138: trophy2
+    2300140: trophyFishing
+    3300000: bucket
+    3300002: chair
+    3300004: collision
+    3300006: collision 1
+    3300008: collision 10
+    3300010: collision 11
+    3300012: collision 12
+    3300014: collision 2
+    3300016: collision 3
+    3300018: collision 4
+    3300020: collision 5
+    3300022: collision 6
+    3300024: collision 7
+    3300026: collision 8
+    3300028: collision 9
+    3300030: collision_desk
+    3300032: collision_doorStep
+    3300034: collision_hallwayCeiling
+    3300036: collision_hallwayWall
+    3300038: collision_mainceiling
+    3300040: collision_mainFloor
+    3300042: collision_officeCeiling
+    3300044: collision_officeFloor
+    3300046: collision_officeWall
+    3300048: collision_wall
+    3300050: colllision_hallwayFloor
+    3300052: dropShadow
+    3300054: dropshadow
+    3300056: dropShadow 1
+    3300058: dropShadow 10
+    3300060: dropShadow 2
+    3300062: dropShadow 3
+    3300064: dropShadow 4
+    3300066: dropShadow 5
+    3300068: dropShadow 6
+    3300070: dropShadow 7
+    3300072: dropShadow 8
+    3300074: dropShadow 9
+    3300076: gagAnvil
+    3300078: gagBanana
+    3300080: gagBikeHorn
+    3300082: gagCreamPie
+    3300084: gagLipStick
+    3300086: gagMagnet
+    3300088: gagPicturesAnvil
+    3300090: gagPicturesBanana
+    3300092: gagPicturesBikeHorn
+    3300094: gagPicturesCreamPie
+    3300096: gagPicturesLipStick
+    3300098: gagPicturesMagnet
+    3300100: gagPicturesTnt
+    3300102: gagPicturesWaterGlass
+    3300104: gagTNT
+    3300106: glass
+    3300108: glasses
+    3300110: hallway
+    3300112: lamp
+    3300114: light1
+    3300116: light2
+    3300118: light3
+    3300120: light4
+    3300122: mainhall
+    3300124: office
+    3300126: paintSplat
+    3300128: pedestal
+    3300130: sign
+    3300132: sofa
+    3300134: tallLamp
+    3300136: trophy1
+    3300138: trophy2
+    3300140: trophyFishing
+    4300000: collision_mainceiling
+    4300002: collision_wall
+    4300004: collision_mainFloor
+    4300006: light1
+    4300008: light2
+    4300010: light3
+    4300012: light4
+    4300014: mainhall
+    4300016: collision_doorStep
+    4300018: trophy1
+    4300020: trophy2
+    4300022: collision_officeWall
+    4300024: collision_officeCeiling
+    4300026: collision_officeFloor
+    4300028: office
+    4300030: collision_desk
+    4300032: trophyFishing
+    4300034: bucket
+    4300036: collision_hallwayWall
+    4300038: collision_hallwayCeiling
+    4300040: colllision_hallwayFloor
+    4300042: hallway
+    4300044: paintSplat
+    4300046: sofa
+    4300048: dropShadow
+    4300050: collision
+    4300052: chair
+    4300054: dropShadow
+    4300056: collision
+    4300058: dropShadow
+    4300060: collision
+    4300062: tallLamp
+    4300064: collision
+    4300066: lamp
+    4300068: sign
+    4300070: dropshadow
+    4300072: collision
+    4300074: dropShadow
+    4300076: collision
+    4300078: gagAnvil
+    4300080: dropShadow
+    4300082: collision
+    4300084: gagBanana
+    4300086: gagCreamPie
+    4300088: dropShadow
+    4300090: collision
+    4300092: glasses
+    4300094: dropShadow
+    4300096: collision
+    4300098: gagLipStick
+    4300100: gagTNT
+    4300102: collision
+    4300104: dropShadow
+    4300106: gagMagnet
+    4300108: dropShadow
+    4300110: collision
+    4300112: dropShadow
+    4300114: collision
+    4300116: gagBikeHorn
+    4300118: glass
+    4300120: pedestal
+    4300122: dropShadow
+    4300124: collision
+    4300126: gagPicturesBanana
+    4300128: gagPicturesAnvil
+    4300130: gagPicturesCreamPie
+    4300132: gagPicturesLipStick
+    4300134: gagPicturesTnt
+    4300136: gagPicturesMagnet
+    4300138: gagPicturesWaterGlass
+    4300140: gagPicturesBikeHorn
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

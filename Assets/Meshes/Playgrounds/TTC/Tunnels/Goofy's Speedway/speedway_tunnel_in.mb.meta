@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f4f168b2841419f4da37e2ba7e9e1bcb
+timeCreated: 1492447752
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _safe_zone
+    100002: a
+    100004: ambient_1
+    100006: baseline
+    100008: baseline1
+    100010: bboxLines
+    100012: blocker
+    100014: buildings
+    100016: cam
+    100018: camera
+    100020: camManipRef
+    100022: coaMarkerRef
+    100024: collisionNP
+    100026: cRayNode
+    100028: cSphereNode
+    100030: d
+    100032: DIRECT
+    100034: DIRECT_Lights
+    100036: directional_1
+    100038: e
+    100040: e1
+    100042: fishing_pond_1
+    100044: group
+    100046: group1
+    100048: group2
+    100050: guideLines
+    100052: i
+    100054: LevelEditor
+    100056: linktunnel_gs_8000_DNARoot
+    100058: manipRef
+    100060: n
+    100062: npc_fisherman_origin_0
+    100064: npc_origin_3
+    100066: objectHandles
+    100068: p
+    100070: pCube1
+    100072: pCube2
+    100074: pCylinder1
+    100076: polySurface2
+    100078: polySurface3
+    100080: polySurface4
+    100082: polySurface5
+    100084: pPlane10
+    100086: pPlane11
+    100088: pPlane12
+    100090: pPlane13
+    100092: pPlane13 1
+    100094: pPlane14
+    100096: pPlane14 1
+    100098: pPlane6
+    100100: pPlane7
+    100102: pPlane8
+    100104: pPlane9
+    100106: props
+    100108: pTorus10
+    100110: pTorus11
+    100112: pTorus12
+    100114: pTorus8
+    100116: pTorus9
+    100118: S
+    100120: sign
+    100122: sign_front
+    100124: sign_origin
+    100126: //RootNode
+    100128: suitPoints
+    100130: t
+    100132: text
+    100134: text 1
+    100136: text 10
+    100138: text 11
+    100140: text 12
+    100142: text 2
+    100144: text 3
+    100146: text 4
+    100148: text 5
+    100150: text 6
+    100152: text 7
+    100154: text 8
+    100156: text 9
+    100158: toontownCentral
+    100160: tunnel_floor_1
+    100162: tunnel_origin
+    100164: tunnel_sphere
+    100166: U
+    100168: unnamed1
+    100170: w
+    100172: x_guide
+    100174: y
+    100176: y 1
+    100178: y_guide
+    100180: z_guide
+    400000: _safe_zone
+    400002: a
+    400004: ambient_1
+    400006: baseline
+    400008: baseline1
+    400010: bboxLines
+    400012: blocker
+    400014: buildings
+    400016: cam
+    400018: camera
+    400020: camManipRef
+    400022: coaMarkerRef
+    400024: collisionNP
+    400026: cRayNode
+    400028: cSphereNode
+    400030: d
+    400032: DIRECT
+    400034: DIRECT_Lights
+    400036: directional_1
+    400038: e
+    400040: e1
+    400042: fishing_pond_1
+    400044: group
+    400046: group1
+    400048: group2
+    400050: guideLines
+    400052: i
+    400054: LevelEditor
+    400056: linktunnel_gs_8000_DNARoot
+    400058: manipRef
+    400060: n
+    400062: npc_fisherman_origin_0
+    400064: npc_origin_3
+    400066: objectHandles
+    400068: p
+    400070: pCube1
+    400072: pCube2
+    400074: pCylinder1
+    400076: polySurface2
+    400078: polySurface3
+    400080: polySurface4
+    400082: polySurface5
+    400084: pPlane10
+    400086: pPlane11
+    400088: pPlane12
+    400090: pPlane13
+    400092: pPlane13 1
+    400094: pPlane14
+    400096: pPlane14 1
+    400098: pPlane6
+    400100: pPlane7
+    400102: pPlane8
+    400104: pPlane9
+    400106: props
+    400108: pTorus10
+    400110: pTorus11
+    400112: pTorus12
+    400114: pTorus8
+    400116: pTorus9
+    400118: S
+    400120: sign
+    400122: sign_front
+    400124: sign_origin
+    400126: //RootNode
+    400128: suitPoints
+    400130: t
+    400132: text
+    400134: text 1
+    400136: text 10
+    400138: text 11
+    400140: text 12
+    400142: text 2
+    400144: text 3
+    400146: text 4
+    400148: text 5
+    400150: text 6
+    400152: text 7
+    400154: text 8
+    400156: text 9
+    400158: toontownCentral
+    400160: tunnel_floor_1
+    400162: tunnel_origin
+    400164: tunnel_sphere
+    400166: U
+    400168: unnamed1
+    400170: w
+    400172: x_guide
+    400174: y
+    400176: y 1
+    400178: y_guide
+    400180: z_guide
+    2300000: blocker
+    2300002: pCube1
+    2300004: pCube2
+    2300006: pCylinder1
+    2300008: polySurface2
+    2300010: polySurface3
+    2300012: polySurface4
+    2300014: polySurface5
+    2300016: pPlane10
+    2300018: pPlane11
+    2300020: pPlane12
+    2300022: pPlane13
+    2300024: pPlane13 1
+    2300026: pPlane14
+    2300028: pPlane14 1
+    2300030: pPlane6
+    2300032: pPlane7
+    2300034: pPlane8
+    2300036: pPlane9
+    2300038: pTorus10
+    2300040: pTorus11
+    2300042: pTorus12
+    2300044: pTorus8
+    2300046: pTorus9
+    2300048: sign_front
+    2300050: text
+    2300052: text 1
+    2300054: text 10
+    2300056: text 11
+    2300058: text 12
+    2300060: text 2
+    2300062: text 3
+    2300064: text 4
+    2300066: text 5
+    2300068: text 6
+    2300070: text 7
+    2300072: text 8
+    2300074: text 9
+    2300076: tunnel_floor_1
+    3300000: blocker
+    3300002: pCube1
+    3300004: pCube2
+    3300006: pCylinder1
+    3300008: polySurface2
+    3300010: polySurface3
+    3300012: polySurface4
+    3300014: polySurface5
+    3300016: pPlane10
+    3300018: pPlane11
+    3300020: pPlane12
+    3300022: pPlane13
+    3300024: pPlane13 1
+    3300026: pPlane14
+    3300028: pPlane14 1
+    3300030: pPlane6
+    3300032: pPlane7
+    3300034: pPlane8
+    3300036: pPlane9
+    3300038: pTorus10
+    3300040: pTorus11
+    3300042: pTorus12
+    3300044: pTorus8
+    3300046: pTorus9
+    3300048: sign_front
+    3300050: text
+    3300052: text 1
+    3300054: text 10
+    3300056: text 11
+    3300058: text 12
+    3300060: text 2
+    3300062: text 3
+    3300064: text 4
+    3300066: text 5
+    3300068: text 6
+    3300070: text 7
+    3300072: text 8
+    3300074: text 9
+    3300076: tunnel_floor_1
+    4300000: pCube1
+    4300002: pTorus8
+    4300004: pTorus9
+    4300006: pTorus10
+    4300008: pTorus11
+    4300010: pTorus12
+    4300012: polySurface2
+    4300014: polySurface3
+    4300016: pCube2
+    4300018: pPlane6
+    4300020: polySurface4
+    4300022: tunnel_floor_1
+    4300024: pPlane8
+    4300026: pPlane9
+    4300028: pPlane7
+    4300030: pPlane10
+    4300032: pPlane11
+    4300034: pPlane12
+    4300036: pCylinder1
+    4300038: pPlane14
+    4300040: pPlane13
+    4300042: pPlane14
+    4300044: pPlane13
+    4300046: sign_front
+    4300048: text
+    4300050: text
+    4300052: text
+    4300054: text
+    4300056: text
+    4300058: text
+    4300060: text
+    4300062: text
+    4300064: text
+    4300066: text
+    4300068: text
+    4300070: text
+    4300072: text
+    4300074: polySurface5
+    4300076: blocker
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

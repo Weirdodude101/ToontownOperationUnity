@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: ef405e918bb8f3144854e6e4215c09bd
+timeCreated: 1491608889
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_column
+    100002: back_column2
+    100004: //RootNode
+    100006: bank2_camera_collide
+    100008: bank_1
+    100010: bank_collision
+    100012: bank_door_origin
+    100014: camera_collisions
+    100016: column
+    100018: column2
+    100020: decal_base
+    100022: decal_base1
+    100024: decals
+    100026: decals 1
+    100028: door_front
+    100030: door_front_1
+    100032: landmark_bank_2_side_walls
+    100034: landmark_bank_upper
+    100036: landmark_bank_upper_1
+    100038: o77
+    100040: o78
+    100042: o79
+    100044: o79_1
+    100046: o79_2
+    100048: o79_3
+    100050: pig
+    100052: romangate_pyramid_bottom
+    100054: roof_pig
+    100056: roof_pig_1
+    100058: roof_pig_2
+    100060: shadow
+    100062: shadow_1
+    100064: shadow_3
+    100066: shadow_4
+    100068: sign_decal
+    100070: sign_origin
+    100072: square_drop_shadow
+    100074: square_drop_shadow_1
+    100076: suit_building_origin
+    100078: unnamed1
+    100080: unnamed2
+    400000: back_column
+    400002: back_column2
+    400004: //RootNode
+    400006: bank2_camera_collide
+    400008: bank_1
+    400010: bank_collision
+    400012: bank_door_origin
+    400014: camera_collisions
+    400016: column
+    400018: column2
+    400020: decal_base
+    400022: decal_base1
+    400024: decals
+    400026: decals 1
+    400028: door_front
+    400030: door_front_1
+    400032: landmark_bank_2_side_walls
+    400034: landmark_bank_upper
+    400036: landmark_bank_upper_1
+    400038: o77
+    400040: o78
+    400042: o79
+    400044: o79_1
+    400046: o79_2
+    400048: o79_3
+    400050: pig
+    400052: romangate_pyramid_bottom
+    400054: roof_pig
+    400056: roof_pig_1
+    400058: roof_pig_2
+    400060: shadow
+    400062: shadow_1
+    400064: shadow_3
+    400066: shadow_4
+    400068: sign_decal
+    400070: sign_origin
+    400072: square_drop_shadow
+    400074: square_drop_shadow_1
+    400076: suit_building_origin
+    400078: unnamed1
+    400080: unnamed2
+    2300000: back_column
+    2300002: back_column2
+    2300004: bank2_camera_collide
+    2300006: camera_collisions
+    2300008: column
+    2300010: column2
+    2300012: decals
+    2300014: decals 1
+    2300016: door_front
+    2300018: door_front_1
+    2300020: landmark_bank_2_side_walls
+    2300022: landmark_bank_upper
+    2300024: landmark_bank_upper_1
+    2300026: o79
+    2300028: o79_1
+    2300030: o79_2
+    2300032: o79_3
+    2300034: romangate_pyramid_bottom
+    2300036: roof_pig
+    2300038: roof_pig_1
+    2300040: roof_pig_2
+    2300042: shadow
+    2300044: shadow_1
+    2300046: shadow_3
+    2300048: shadow_4
+    2300050: sign_decal
+    2300052: unnamed1
+    2300054: unnamed2
+    3300000: back_column
+    3300002: back_column2
+    3300004: bank2_camera_collide
+    3300006: camera_collisions
+    3300008: column
+    3300010: column2
+    3300012: decals
+    3300014: decals 1
+    3300016: door_front
+    3300018: door_front_1
+    3300020: landmark_bank_2_side_walls
+    3300022: landmark_bank_upper
+    3300024: landmark_bank_upper_1
+    3300026: o79
+    3300028: o79_1
+    3300030: o79_2
+    3300032: o79_3
+    3300034: romangate_pyramid_bottom
+    3300036: roof_pig
+    3300038: roof_pig_1
+    3300040: roof_pig_2
+    3300042: shadow
+    3300044: shadow_1
+    3300046: shadow_3
+    3300048: shadow_4
+    3300050: sign_decal
+    3300052: unnamed1
+    3300054: unnamed2
+    4300000: shadow_1
+    4300002: shadow_4
+    4300004: shadow
+    4300006: shadow_3
+    4300008: bank2_camera_collide
+    4300010: camera_collisions
+    4300012: o79
+    4300014: o79_1
+    4300016: o79_2
+    4300018: o79_3
+    4300020: roof_pig_1
+    4300022: roof_pig_2
+    4300024: column
+    4300026: column2
+    4300028: roof_pig
+    4300030: back_column2
+    4300032: back_column
+    4300034: door_front_1
+    4300036: landmark_bank_upper_1
+    4300038: unnamed1
+    4300040: decals
+    4300042: unnamed2
+    4300044: decals
+    4300046: romangate_pyramid_bottom
+    4300048: landmark_bank_2_side_walls
+    4300050: landmark_bank_upper
+    4300052: door_front
+    4300054: sign_decal
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

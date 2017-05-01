@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 6970e9d555f90d04d80ca9deea1f88be
+timeCreated: 1491583897
+licenseType: Free
+ModelImporter:
+  serializedVersion: 20
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CatHead1000Polys
+    100004: CatHead1000Polys1
+    100006: ears_long
+    100008: ears_short
+    100010: eyes_long
+    100012: eyes_short
+    100014: head_front_long
+    100016: head_front_short
+    100018: head_long
+    100020: head_short
+    100022: joint_pupilL_long
+    100024: joint_pupilL_short
+    100026: joint_pupilR_long
+    100028: joint_pupilR_short
+    100030: muzzle_long_angry
+    100032: muzzle_long_laugh
+    100034: muzzle_long_neutral
+    100036: muzzle_long_sad
+    100038: muzzle_long_smile
+    100040: muzzle_long_surprise
+    100042: muzzle_short_angry
+    100044: muzzle_short_laugh
+    100046: muzzle_short_neutral
+    100048: muzzle_short_sad
+    100050: muzzle_short_smile
+    100052: muzzle_short_surprise
+    400000: //RootNode
+    400002: CatHead1000Polys
+    400004: CatHead1000Polys1
+    400006: ears_long
+    400008: ears_short
+    400010: eyes_long
+    400012: eyes_short
+    400014: head_front_long
+    400016: head_front_short
+    400018: head_long
+    400020: head_short
+    400022: joint_pupilL_long
+    400024: joint_pupilL_short
+    400026: joint_pupilR_long
+    400028: joint_pupilR_short
+    400030: muzzle_long_angry
+    400032: muzzle_long_laugh
+    400034: muzzle_long_neutral
+    400036: muzzle_long_sad
+    400038: muzzle_long_smile
+    400040: muzzle_long_surprise
+    400042: muzzle_short_angry
+    400044: muzzle_short_laugh
+    400046: muzzle_short_neutral
+    400048: muzzle_short_sad
+    400050: muzzle_short_smile
+    400052: muzzle_short_surprise
+    2300000: ears_long
+    2300002: ears_short
+    2300004: eyes_long
+    2300006: eyes_short
+    2300008: head_front_long
+    2300010: head_front_short
+    2300012: head_long
+    2300014: head_short
+    2300016: joint_pupilL_long
+    2300018: joint_pupilL_short
+    2300020: joint_pupilR_long
+    2300022: joint_pupilR_short
+    2300024: muzzle_long_angry
+    2300026: muzzle_long_laugh
+    2300028: muzzle_long_neutral
+    2300030: muzzle_long_sad
+    2300032: muzzle_long_smile
+    2300034: muzzle_long_surprise
+    2300036: muzzle_short_angry
+    2300038: muzzle_short_laugh
+    2300040: muzzle_short_neutral
+    2300042: muzzle_short_sad
+    2300044: muzzle_short_smile
+    2300046: muzzle_short_surprise
+    3300000: ears_long
+    3300002: ears_short
+    3300004: eyes_long
+    3300006: eyes_short
+    3300008: head_front_long
+    3300010: head_front_short
+    3300012: head_long
+    3300014: head_short
+    3300016: joint_pupilL_long
+    3300018: joint_pupilL_short
+    3300020: joint_pupilR_long
+    3300022: joint_pupilR_short
+    3300024: muzzle_long_angry
+    3300026: muzzle_long_laugh
+    3300028: muzzle_long_neutral
+    3300030: muzzle_long_sad
+    3300032: muzzle_long_smile
+    3300034: muzzle_long_surprise
+    3300036: muzzle_short_angry
+    3300038: muzzle_short_laugh
+    3300040: muzzle_short_neutral
+    3300042: muzzle_short_sad
+    3300044: muzzle_short_smile
+    3300046: muzzle_short_surprise
+    4300000: muzzle_short_neutral
+    4300002: muzzle_short_surprise
+    4300004: muzzle_short_sad
+    4300006: muzzle_short_smile
+    4300008: muzzle_short_angry
+    4300010: muzzle_short_laugh
+    4300012: head_front_short
+    4300014: head_short
+    4300016: ears_short
+    4300018: eyes_short
+    4300020: joint_pupilL_short
+    4300022: joint_pupilR_short
+    4300024: muzzle_long_neutral
+    4300026: muzzle_long_surprise
+    4300028: muzzle_long_sad
+    4300030: muzzle_long_smile
+    4300032: muzzle_long_angry
+    4300034: muzzle_long_laugh
+    4300036: head_front_long
+    4300038: head_long
+    4300040: ears_long
+    4300042: eyes_long
+    4300044: joint_pupilL_long
+    4300046: joint_pupilR_long
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

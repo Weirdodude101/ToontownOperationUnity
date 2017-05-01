@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 4a01d23611fae994da1fbdcf7abf39fd
+timeCreated: 1492125475
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: gag_fruit
+    100002: gag_tree_large
+    100004: gag_tree_large_wilt
+    100006: gag_tree_med
+    100008: gag_tree_med_wilt
+    100010: gag_tree_small
+    100012: gag_tree_small_wilt
+    100014: //RootNode
+    100016: gagtree_collision
+    100018: gagtree_collision 1
+    100020: gagtree_collision 2
+    100022: gagtree_collision 3
+    100024: gagtree_collision 4
+    100026: gagtree_collision 5
+    100028: leaves
+    100030: leaves 1
+    100032: leaves 2
+    100034: leaves1
+    100036: leaves1 1
+    100038: leaves10
+    100040: leaves11
+    100042: leaves11 1
+    100044: leaves12
+    100046: leaves12 1
+    100048: leaves13
+    100050: leaves13 1
+    100052: leaves15
+    100054: leaves16
+    100056: leaves17
+    100058: leaves18
+    100060: leaves19
+    100062: leaves2
+    100064: leaves2 1
+    100066: leaves20
+    100068: leaves3
+    100070: leaves4
+    100072: leaves4 1
+    100074: leaves5
+    100076: leaves6
+    100078: leaves6 1
+    100080: leaves7
+    100082: leaves8
+    100084: leaves8 1
+    100086: leaves8 2
+    100088: leaves9
+    100090: locator1
+    100092: locator10
+    100094: locator2
+    100096: locator3
+    100098: locator4
+    100100: locator5
+    100102: locator6
+    100104: locator7
+    100106: locator8
+    100108: locator9
+    100110: shadow1
+    100112: shadow1 1
+    100114: shadow1 2
+    100116: shadow1 3
+    100118: shadow1 4
+    100120: shadow1 5
+    100122: trunk
+    100124: trunk 1
+    100126: trunk 2
+    100128: trunk 3
+    100130: trunk 4
+    100132: trunk 5
+    400000: gag_fruit
+    400002: gag_tree_large
+    400004: gag_tree_large_wilt
+    400006: gag_tree_med
+    400008: gag_tree_med_wilt
+    400010: gag_tree_small
+    400012: gag_tree_small_wilt
+    400014: //RootNode
+    400016: gagtree_collision
+    400018: gagtree_collision 1
+    400020: gagtree_collision 2
+    400022: gagtree_collision 3
+    400024: gagtree_collision 4
+    400026: gagtree_collision 5
+    400028: leaves
+    400030: leaves 1
+    400032: leaves 2
+    400034: leaves1
+    400036: leaves1 1
+    400038: leaves10
+    400040: leaves11
+    400042: leaves11 1
+    400044: leaves12
+    400046: leaves12 1
+    400048: leaves13
+    400050: leaves13 1
+    400052: leaves15
+    400054: leaves16
+    400056: leaves17
+    400058: leaves18
+    400060: leaves19
+    400062: leaves2
+    400064: leaves2 1
+    400066: leaves20
+    400068: leaves3
+    400070: leaves4
+    400072: leaves4 1
+    400074: leaves5
+    400076: leaves6
+    400078: leaves6 1
+    400080: leaves7
+    400082: leaves8
+    400084: leaves8 1
+    400086: leaves8 2
+    400088: leaves9
+    400090: locator1
+    400092: locator10
+    400094: locator2
+    400096: locator3
+    400098: locator4
+    400100: locator5
+    400102: locator6
+    400104: locator7
+    400106: locator8
+    400108: locator9
+    400110: shadow1
+    400112: shadow1 1
+    400114: shadow1 2
+    400116: shadow1 3
+    400118: shadow1 4
+    400120: shadow1 5
+    400122: trunk
+    400124: trunk 1
+    400126: trunk 2
+    400128: trunk 3
+    400130: trunk 4
+    400132: trunk 5
+    2300000: gagtree_collision
+    2300002: gagtree_collision 1
+    2300004: gagtree_collision 2
+    2300006: gagtree_collision 3
+    2300008: gagtree_collision 4
+    2300010: gagtree_collision 5
+    2300012: leaves1
+    2300014: leaves1 1
+    2300016: leaves10
+    2300018: leaves11
+    2300020: leaves11 1
+    2300022: leaves12
+    2300024: leaves12 1
+    2300026: leaves13
+    2300028: leaves13 1
+    2300030: leaves15
+    2300032: leaves16
+    2300034: leaves17
+    2300036: leaves18
+    2300038: leaves19
+    2300040: leaves2
+    2300042: leaves2 1
+    2300044: leaves20
+    2300046: leaves3
+    2300048: leaves4
+    2300050: leaves4 1
+    2300052: leaves5
+    2300054: leaves6
+    2300056: leaves6 1
+    2300058: leaves7
+    2300060: leaves8
+    2300062: leaves8 1
+    2300064: leaves8 2
+    2300066: leaves9
+    2300068: shadow1
+    2300070: shadow1 1
+    2300072: shadow1 2
+    2300074: shadow1 3
+    2300076: shadow1 4
+    2300078: shadow1 5
+    2300080: trunk
+    2300082: trunk 1
+    2300084: trunk 2
+    2300086: trunk 3
+    2300088: trunk 4
+    2300090: trunk 5
+    3300000: gagtree_collision
+    3300002: gagtree_collision 1
+    3300004: gagtree_collision 2
+    3300006: gagtree_collision 3
+    3300008: gagtree_collision 4
+    3300010: gagtree_collision 5
+    3300012: leaves1
+    3300014: leaves1 1
+    3300016: leaves10
+    3300018: leaves11
+    3300020: leaves11 1
+    3300022: leaves12
+    3300024: leaves12 1
+    3300026: leaves13
+    3300028: leaves13 1
+    3300030: leaves15
+    3300032: leaves16
+    3300034: leaves17
+    3300036: leaves18
+    3300038: leaves19
+    3300040: leaves2
+    3300042: leaves2 1
+    3300044: leaves20
+    3300046: leaves3
+    3300048: leaves4
+    3300050: leaves4 1
+    3300052: leaves5
+    3300054: leaves6
+    3300056: leaves6 1
+    3300058: leaves7
+    3300060: leaves8
+    3300062: leaves8 1
+    3300064: leaves8 2
+    3300066: leaves9
+    3300068: shadow1
+    3300070: shadow1 1
+    3300072: shadow1 2
+    3300074: shadow1 3
+    3300076: shadow1 4
+    3300078: shadow1 5
+    3300080: trunk
+    3300082: trunk 1
+    3300084: trunk 2
+    3300086: trunk 3
+    3300088: trunk 4
+    3300090: trunk 5
+    4300000: trunk
+    4300002: leaves8
+    4300004: leaves15
+    4300006: leaves16
+    4300008: leaves17
+    4300010: leaves18
+    4300012: leaves19
+    4300014: shadow1
+    4300016: gagtree_collision
+    4300018: trunk
+    4300020: leaves1
+    4300022: leaves2
+    4300024: leaves4
+    4300026: leaves6
+    4300028: leaves8
+    4300030: leaves11
+    4300032: leaves12
+    4300034: leaves13
+    4300036: leaves20
+    4300038: shadow1
+    4300040: gagtree_collision
+    4300042: trunk
+    4300044: leaves1
+    4300046: leaves2
+    4300048: leaves3
+    4300050: leaves4
+    4300052: leaves5
+    4300054: leaves6
+    4300056: leaves7
+    4300058: leaves8
+    4300060: leaves9
+    4300062: leaves10
+    4300064: leaves11
+    4300066: leaves12
+    4300068: leaves13
+    4300070: shadow1
+    4300072: gagtree_collision
+    4300074: trunk
+    4300076: shadow1
+    4300078: gagtree_collision
+    4300080: trunk
+    4300082: shadow1
+    4300084: gagtree_collision
+    4300086: trunk
+    4300088: shadow1
+    4300090: gagtree_collision
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

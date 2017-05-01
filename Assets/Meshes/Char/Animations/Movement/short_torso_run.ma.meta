@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 8d0b535b43cb4fe458225716833e0862
+timeCreated: 1491583902
+licenseType: Free
+ModelImporter:
+  serializedVersion: 20
+  fileIDToRecycleName:
+    100000: arms
+    100002: def_cageA
+    100004: def_head
+    100006: def_head 1
+    100008: def_joint_attachFlower
+    100010: def_joint_attachFlower 1
+    100012: def_joint_left_hold
+    100014: def_joint_left_hold 1
+    100016: def_joint_right_hold
+    100018: def_joint_right_hold 1
+    100020: def_left_elbow
+    100022: def_left_forearm
+    100024: def_left_midA
+    100026: def_left_midB
+    100028: def_left_neg_wrist
+    100030: def_left_palm
+    100032: def_left_pant_bottom
+    100034: def_left_pant_top
+    100036: def_left_shoulder
+    100038: def_left_sleeve_long
+    100040: def_left_sleeve_short
+    100042: def_left_thumbA
+    100044: def_left_thumbB
+    100046: def_left_thumbC
+    100048: def_left_wrist
+    100050: def_neck
+    100052: def_right_elbow
+    100054: def_right_forearm
+    100056: def_right_midA
+    100058: def_right_midB
+    100060: def_right_neg_wrist
+    100062: def_right_palm
+    100064: def_right_pant_bottom
+    100066: def_right_pant_top
+    100068: def_right_shoulder
+    100070: def_right_sleeve_long
+    100072: def_right_sleeve_short
+    100074: def_right_thumbA
+    100076: def_right_thumbB
+    100078: def_right_thumbC
+    100080: def_right_wrist
+    100082: def_spineB
+    100084: hands
+    100086: neck
+    100088: root
+    100090: //RootNode
+    100092: sleeves
+    100094: torso_bot
+    100096: torso_top
+    400000: arms
+    400002: def_cageA
+    400004: def_head
+    400006: def_head 1
+    400008: def_joint_attachFlower
+    400010: def_joint_attachFlower 1
+    400012: def_joint_left_hold
+    400014: def_joint_left_hold 1
+    400016: def_joint_right_hold
+    400018: def_joint_right_hold 1
+    400020: def_left_elbow
+    400022: def_left_forearm
+    400024: def_left_midA
+    400026: def_left_midB
+    400028: def_left_neg_wrist
+    400030: def_left_palm
+    400032: def_left_pant_bottom
+    400034: def_left_pant_top
+    400036: def_left_shoulder
+    400038: def_left_sleeve_long
+    400040: def_left_sleeve_short
+    400042: def_left_thumbA
+    400044: def_left_thumbB
+    400046: def_left_thumbC
+    400048: def_left_wrist
+    400050: def_neck
+    400052: def_right_elbow
+    400054: def_right_forearm
+    400056: def_right_midA
+    400058: def_right_midB
+    400060: def_right_neg_wrist
+    400062: def_right_palm
+    400064: def_right_pant_bottom
+    400066: def_right_pant_top
+    400068: def_right_shoulder
+    400070: def_right_sleeve_long
+    400072: def_right_sleeve_short
+    400074: def_right_thumbA
+    400076: def_right_thumbB
+    400078: def_right_thumbC
+    400080: def_right_wrist
+    400082: def_spineB
+    400084: hands
+    400086: neck
+    400088: root
+    400090: //RootNode
+    400092: sleeves
+    400094: torso_bot
+    400096: torso_top
+    4300000: hands
+    4300002: arms
+    4300004: torso_bot
+    4300006: neck
+    4300008: torso_top
+    4300010: sleeves
+    7400000: short_torso@run
+    9500000: //RootNode
+    13700000: arms
+    13700002: hands
+    13700004: neck
+    13700006: sleeves
+    13700008: torso_bot
+    13700010: torso_top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: short_torso@run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arms
+        weight: 1
+      - path: def_head
+        weight: 1
+      - path: def_joint_attachFlower
+        weight: 1
+      - path: def_joint_left_hold
+        weight: 1
+      - path: def_joint_right_hold
+        weight: 1
+      - path: hands
+        weight: 1
+      - path: neck
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/def_left_pant_bottom
+        weight: 1
+      - path: root/def_left_pant_top
+        weight: 1
+      - path: root/def_right_pant_bottom
+        weight: 1
+      - path: root/def_right_pant_top
+        weight: 1
+      - path: root/def_spineB
+        weight: 1
+      - path: root/def_spineB/def_cageA
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_joint_attachFlower 1
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_neg_wrist
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm/def_joint_left_hold
+          1
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm/def_left_midA
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm/def_left_midA/def_left_midB
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm/def_left_thumbA
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm/def_left_thumbA/def_left_thumbB
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_elbow/def_left_forearm/def_left_wrist/def_left_palm/def_left_thumbA/def_left_thumbB/def_left_thumbC
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_sleeve_long
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_left_shoulder/def_left_sleeve_short
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_neck
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_neck/def_head 1
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_neg_wrist
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm/def_joint_right_hold
+          1
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm/def_right_midA
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm/def_right_midA/def_right_midB
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm/def_right_thumbA
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm/def_right_thumbA/def_right_thumbB
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_elbow/def_right_forearm/def_right_wrist/def_right_palm/def_right_thumbA/def_right_thumbB/def_right_thumbC
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_sleeve_long
+        weight: 1
+      - path: root/def_spineB/def_cageA/def_right_shoulder/def_right_sleeve_short
+        weight: 1
+      - path: sleeves
+        weight: 1
+      - path: torso_bot
+        weight: 1
+      - path: torso_top
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

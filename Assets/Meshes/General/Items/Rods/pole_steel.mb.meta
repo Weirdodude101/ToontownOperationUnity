@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 21bed983cac432c4aa05903e2bc51803
+timeCreated: 1492725557
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fishing_pole 1
+    100002: fishing_pole1
+    100004: joint_attachBill
+    100006: joint_attachBill 1
+    100008: joint_pole2
+    100010: joint_pole2 1
+    100012: joint_pole3
+    100014: joint_pole3 1
+    100016: joint_pole4
+    100018: joint_pole4 1
+    100020: joint_pole5
+    100022: joint_pole6
+    100024: joint_pole6 1
+    100026: joint_thereel
+    100028: joint_thereel 1
+    100030: //RootNode
+    400000: fishing_pole 1
+    400002: fishing_pole1
+    400004: joint_attachBill
+    400006: joint_attachBill 1
+    400008: joint_pole2
+    400010: joint_pole2 1
+    400012: joint_pole3
+    400014: joint_pole3 1
+    400016: joint_pole4
+    400018: joint_pole4 1
+    400020: joint_pole5
+    400022: joint_pole6
+    400024: joint_pole6 1
+    400026: joint_thereel
+    400028: joint_thereel 1
+    400030: //RootNode
+    2300000: fishing_pole 1
+    2300002: joint_pole2
+    2300004: joint_pole3
+    2300006: joint_pole4
+    2300008: joint_pole6
+    2300010: joint_thereel
+    3300000: fishing_pole 1
+    3300002: joint_pole2
+    3300004: joint_pole3
+    3300006: joint_pole4
+    3300008: joint_pole6
+    3300010: joint_thereel
+    4300000: fishing_pole
+    4300002: fishing_pole
+    4300004: joint_pole2
+    4300006: joint_pole3
+    4300008: joint_pole4
+    4300010: joint_pole6
+    4300012: joint_thereel
+    9500000: //RootNode
+    13700000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

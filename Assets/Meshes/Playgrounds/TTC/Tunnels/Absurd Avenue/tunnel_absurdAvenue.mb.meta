@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 7809e542b13652047abd663af39fab89
+timeCreated: 1492975554
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _safe_zone
+    100002: A
+    100004: A 1
+    100006: A1
+    100008: ambient_1
+    100010: B
+    100012: baseline
+    100014: baseline1
+    100016: baseline2
+    100018: bboxLines
+    100020: blocker
+    100022: buildings
+    100024: C
+    100026: cam
+    100028: camera
+    100030: camera_collisions
+    100032: camManipRef
+    100034: coaMarkerRef
+    100036: collisionNP
+    100038: cRayNode
+    100040: cSphereNode
+    100042: D
+    100044: DIRECT
+    100046: DIRECT_Lights
+    100048: directional_1
+    100050: E
+    100052: E 1
+    100054: E1
+    100056: fishing_pond_1
+    100058: g7
+    100060: guideLines
+    100062: L
+    100064: LevelEditor
+    100066: linktunnel_tt_2226_DNARoot
+    100068: manipRef
+    100070: mickeySZ
+    100072: N
+    100074: N 1
+    100076: N1
+    100078: N2
+    100080: npc_fisherman_origin_0
+    100082: npc_origin_3
+    100084: O
+    100086: O1
+    100088: O2
+    100090: objectHandles
+    100092: props
+    100094: R
+    100096: R 1
+    100098: S
+    100100: s_tunnel_ceiling_1
+    100102: s_tunnel_walls_1
+    100104: safe_zone_entrance_front
+    100106: safe_zone_tunnel_collisions
+    100108: short_tunnel
+    100110: sign
+    100112: sign_origin
+    100114: suitPoints
+    100116: T
+    100118: T1
+    100120: T2
+    100122: text
+    100124: text 1
+    100126: text 10
+    100128: text 11
+    100130: text 12
+    100132: text 13
+    100134: text 14
+    100136: text 15
+    100138: text 16
+    100140: text 17
+    100142: text 18
+    100144: text 19
+    100146: text 2
+    100148: text 20
+    100150: text 21
+    100152: text 22
+    100154: text 23
+    100156: text 24
+    100158: text 25
+    100160: text 26
+    100162: text 27
+    100164: text 28
+    100166: text 3
+    100168: text 4
+    100170: text 5
+    100172: text 6
+    100174: text 7
+    100176: text 8
+    100178: text 9
+    100180: toontownCentral
+    100182: transform1
+    100184: transform2
+    100186: //RootNode
+    100188: tunnel_ceiling
+    100190: tunnel_down_entrance_2
+    100192: tunnel_floor_1
+    100194: tunnel_floor_collisions
+    100196: tunnel_origin
+    100198: tunnel_trigger
+    100200: tunnel_wall_collisions
+    100202: tunnel_walls
+    100204: U
+    100206: U1
+    100208: V
+    100210: W
+    100212: x_guide
+    100214: y_guide
+    100216: z_guide
+    400000: _safe_zone
+    400002: A
+    400004: A 1
+    400006: A1
+    400008: ambient_1
+    400010: B
+    400012: baseline
+    400014: baseline1
+    400016: baseline2
+    400018: bboxLines
+    400020: blocker
+    400022: buildings
+    400024: C
+    400026: cam
+    400028: camera
+    400030: camera_collisions
+    400032: camManipRef
+    400034: coaMarkerRef
+    400036: collisionNP
+    400038: cRayNode
+    400040: cSphereNode
+    400042: D
+    400044: DIRECT
+    400046: DIRECT_Lights
+    400048: directional_1
+    400050: E
+    400052: E 1
+    400054: E1
+    400056: fishing_pond_1
+    400058: g7
+    400060: guideLines
+    400062: L
+    400064: LevelEditor
+    400066: linktunnel_tt_2226_DNARoot
+    400068: manipRef
+    400070: mickeySZ
+    400072: N
+    400074: N 1
+    400076: N1
+    400078: N2
+    400080: npc_fisherman_origin_0
+    400082: npc_origin_3
+    400084: O
+    400086: O1
+    400088: O2
+    400090: objectHandles
+    400092: props
+    400094: R
+    400096: R 1
+    400098: S
+    400100: s_tunnel_ceiling_1
+    400102: s_tunnel_walls_1
+    400104: safe_zone_entrance_front
+    400106: safe_zone_tunnel_collisions
+    400108: short_tunnel
+    400110: sign
+    400112: sign_origin
+    400114: suitPoints
+    400116: T
+    400118: T1
+    400120: T2
+    400122: text
+    400124: text 1
+    400126: text 10
+    400128: text 11
+    400130: text 12
+    400132: text 13
+    400134: text 14
+    400136: text 15
+    400138: text 16
+    400140: text 17
+    400142: text 18
+    400144: text 19
+    400146: text 2
+    400148: text 20
+    400150: text 21
+    400152: text 22
+    400154: text 23
+    400156: text 24
+    400158: text 25
+    400160: text 26
+    400162: text 27
+    400164: text 28
+    400166: text 3
+    400168: text 4
+    400170: text 5
+    400172: text 6
+    400174: text 7
+    400176: text 8
+    400178: text 9
+    400180: toontownCentral
+    400182: transform1
+    400184: transform2
+    400186: //RootNode
+    400188: tunnel_ceiling
+    400190: tunnel_down_entrance_2
+    400192: tunnel_floor_1
+    400194: tunnel_floor_collisions
+    400196: tunnel_origin
+    400198: tunnel_trigger
+    400200: tunnel_wall_collisions
+    400202: tunnel_walls
+    400204: U
+    400206: U1
+    400208: V
+    400210: W
+    400212: x_guide
+    400214: y_guide
+    400216: z_guide
+    2300000: blocker
+    2300002: camera_collisions
+    2300004: mickeySZ
+    2300006: s_tunnel_ceiling_1
+    2300008: s_tunnel_walls_1
+    2300010: safe_zone_entrance_front
+    2300012: sign
+    2300014: text
+    2300016: text 1
+    2300018: text 10
+    2300020: text 11
+    2300022: text 13
+    2300024: text 14
+    2300026: text 15
+    2300028: text 16
+    2300030: text 17
+    2300032: text 18
+    2300034: text 19
+    2300036: text 2
+    2300038: text 20
+    2300040: text 21
+    2300042: text 22
+    2300044: text 23
+    2300046: text 24
+    2300048: text 25
+    2300050: text 26
+    2300052: text 27
+    2300054: text 3
+    2300056: text 4
+    2300058: text 5
+    2300060: text 6
+    2300062: text 7
+    2300064: text 8
+    2300066: text 9
+    2300068: tunnel_ceiling
+    2300070: tunnel_down_entrance_2
+    2300072: tunnel_floor_1
+    2300074: tunnel_floor_collisions
+    2300076: tunnel_wall_collisions
+    2300078: tunnel_walls
+    3300000: blocker
+    3300002: camera_collisions
+    3300004: mickeySZ
+    3300006: s_tunnel_ceiling_1
+    3300008: s_tunnel_walls_1
+    3300010: safe_zone_entrance_front
+    3300012: sign
+    3300014: text
+    3300016: text 1
+    3300018: text 10
+    3300020: text 11
+    3300022: text 13
+    3300024: text 14
+    3300026: text 15
+    3300028: text 16
+    3300030: text 17
+    3300032: text 18
+    3300034: text 19
+    3300036: text 2
+    3300038: text 20
+    3300040: text 21
+    3300042: text 22
+    3300044: text 23
+    3300046: text 24
+    3300048: text 25
+    3300050: text 26
+    3300052: text 27
+    3300054: text 3
+    3300056: text 4
+    3300058: text 5
+    3300060: text 6
+    3300062: text 7
+    3300064: text 8
+    3300066: text 9
+    3300068: tunnel_ceiling
+    3300070: tunnel_down_entrance_2
+    3300072: tunnel_floor_1
+    3300074: tunnel_floor_collisions
+    3300076: tunnel_wall_collisions
+    3300078: tunnel_walls
+    4300000: s_tunnel_walls_1
+    4300002: s_tunnel_ceiling_1
+    4300004: tunnel_floor_1
+    4300006: tunnel_ceiling
+    4300008: tunnel_walls
+    4300010: tunnel_floor_collisions
+    4300012: tunnel_wall_collisions
+    4300014: tunnel_down_entrance_2
+    4300016: safe_zone_entrance_front
+    4300018: sign
+    4300020: text
+    4300022: text
+    4300024: text
+    4300026: text
+    4300028: text
+    4300030: text
+    4300032: text
+    4300034: text
+    4300036: text
+    4300038: text
+    4300040: text
+    4300042: text
+    4300044: text
+    4300046: text
+    4300048: text
+    4300050: text
+    4300052: text
+    4300054: text
+    4300056: text
+    4300058: text
+    4300060: text
+    4300062: text
+    4300064: text
+    4300066: text
+    4300068: text
+    4300070: text
+    4300072: text
+    4300074: mickeySZ
+    4300076: camera_collisions
+    4300078: blocker
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

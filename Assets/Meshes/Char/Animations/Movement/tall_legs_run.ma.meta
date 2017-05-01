@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 3b7da2959aba566419c708591d2ce68b
+timeCreated: 1492709104
+licenseType: Free
+ModelImporter:
+  serializedVersion: 20
+  fileIDToRecycleName:
+    100000: boots_long
+    100002: boots_short
+    100004: def_left_ankle
+    100006: def_left_ball
+    100008: def_left_hip
+    100010: def_left_knee
+    100012: def_right_ankle
+    100014: def_right_ball
+    100016: def_right_hip
+    100018: def_right_knee
+    100020: feet
+    100022: joint_hips
+    100024: joint_hips1
+    100026: joint_nameTag
+    100028: joint_nameTag1
+    100030: joint_shadow
+    100032: joint_shadow1
+    100034: legs
+    100036: shoes
+    100038: //RootNode
+    400000: boots_long
+    400002: boots_short
+    400004: def_left_ankle
+    400006: def_left_ball
+    400008: def_left_hip
+    400010: def_left_knee
+    400012: def_right_ankle
+    400014: def_right_ball
+    400016: def_right_hip
+    400018: def_right_knee
+    400020: feet
+    400022: joint_hips
+    400024: joint_hips1
+    400026: joint_nameTag
+    400028: joint_nameTag1
+    400030: joint_shadow
+    400032: joint_shadow1
+    400034: legs
+    400036: shoes
+    400038: //RootNode
+    4300000: feet
+    4300002: legs
+    4300004: shoes
+    4300006: boots_short
+    4300008: boots_long
+    7400000: tall_legs@run
+    9500000: //RootNode
+    13700000: boots_long
+    13700002: boots_short
+    13700004: feet
+    13700006: legs
+    13700008: shoes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tall_legs@run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boots_long
+        weight: 1
+      - path: boots_short
+        weight: 1
+      - path: def_left_hip
+        weight: 1
+      - path: def_left_hip/def_left_knee
+        weight: 1
+      - path: def_left_hip/def_left_knee/def_left_ankle
+        weight: 1
+      - path: def_left_hip/def_left_knee/def_left_ankle/def_left_ball
+        weight: 1
+      - path: def_right_hip
+        weight: 1
+      - path: def_right_hip/def_right_knee
+        weight: 1
+      - path: def_right_hip/def_right_knee/def_right_ankle
+        weight: 1
+      - path: def_right_hip/def_right_knee/def_right_ankle/def_right_ball
+        weight: 1
+      - path: feet
+        weight: 1
+      - path: joint_hips
+        weight: 1
+      - path: joint_hips1
+        weight: 1
+      - path: joint_nameTag
+        weight: 1
+      - path: joint_nameTag1
+        weight: 1
+      - path: joint_shadow
+        weight: 1
+      - path: joint_shadow1
+        weight: 1
+      - path: legs
+        weight: 1
+      - path: shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

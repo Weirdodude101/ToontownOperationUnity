@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: f88905410ee48d34aa19cefbe5c620f9
+timeCreated: 1492973006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _safe_zone
+    100002: A
+    100004: ambient_1
+    100006: awning
+    100008: back_wheels
+    100010: back_wheels 1
+    100012: back_wheels 2
+    100014: baseline
+    100016: baseline1
+    100018: buildings
+    100020: cam
+    100022: camera
+    100024: camManipRef
+    100026: coaMarkerRef
+    100028: collisionNP
+    100030: cRayNode
+    100032: cSphereNode
+    100034: DIRECT
+    100036: DIRECT_Lights
+    100038: directional_1
+    100040: E
+    100042: E 1
+    100044: fishing_pond_1
+    100046: front_fence
+    100048: front_wheels
+    100050: front_wheels 1
+    100052: front_wheels 2
+    100054: G
+    100056: hill_1
+    100058: key
+    100060: key 1
+    100062: key 2
+    100064: L
+    100066: L1
+    100068: l1
+    100070: l2
+    100072: l3
+    100074: left_awning
+    100076: LevelEditor
+    100078: M
+    100080: manipRef
+    100082: npc_fisherman_origin_0
+    100084: npc_origin_3
+    100086: O
+    100088: o13
+    100090: o14
+    100092: o15
+    100094: o20
+    100096: o21
+    100098: o22
+    100100: o23
+    100102: o24
+    100104: o29
+    100106: platform
+    100108: platform 1
+    100110: platform 2
+    100112: prop_trolley_station_collisions
+    100114: prop_trolley_station_DNARoot
+    100116: prop_trolley_station_floor_collisions
+    100118: props
+    100120: R
+    100122: right_awning
+    100124: S
+    100126: sign
+    100128: sign_front
+    100130: sign_origin
+    100132: signs
+    100134: station_floor
+    100136: step_ground
+    100138: suitPoints
+    100140: T
+    100142: text
+    100144: text 1
+    100146: text 10
+    100148: text 11
+    100150: text 2
+    100152: text 3
+    100154: text 4
+    100156: text 5
+    100158: text 6
+    100160: text 7
+    100162: text 8
+    100164: text 9
+    100166: toontownCentral
+    100168: trigger_chair
+    100170: trigger_chair 1
+    100172: trigger_chair 2
+    100174: trolley
+    100176: trolley_car
+    100178: trolley_sphere
+    100180: //RootNode
+    100182: trolley_top
+    100184: tunnelL
+    100186: tunnelR
+    100188: unnamed1
+    100190: unnamed2
+    100192: Y
+    400000: _safe_zone
+    400002: A
+    400004: ambient_1
+    400006: awning
+    400008: back_wheels
+    400010: back_wheels 1
+    400012: back_wheels 2
+    400014: baseline
+    400016: baseline1
+    400018: buildings
+    400020: cam
+    400022: camera
+    400024: camManipRef
+    400026: coaMarkerRef
+    400028: collisionNP
+    400030: cRayNode
+    400032: cSphereNode
+    400034: DIRECT
+    400036: DIRECT_Lights
+    400038: directional_1
+    400040: E
+    400042: E 1
+    400044: fishing_pond_1
+    400046: front_fence
+    400048: front_wheels
+    400050: front_wheels 1
+    400052: front_wheels 2
+    400054: G
+    400056: hill_1
+    400058: key
+    400060: key 1
+    400062: key 2
+    400064: L
+    400066: L1
+    400068: l1
+    400070: l2
+    400072: l3
+    400074: left_awning
+    400076: LevelEditor
+    400078: M
+    400080: manipRef
+    400082: npc_fisherman_origin_0
+    400084: npc_origin_3
+    400086: O
+    400088: o13
+    400090: o14
+    400092: o15
+    400094: o20
+    400096: o21
+    400098: o22
+    400100: o23
+    400102: o24
+    400104: o29
+    400106: platform
+    400108: platform 1
+    400110: platform 2
+    400112: prop_trolley_station_collisions
+    400114: prop_trolley_station_DNARoot
+    400116: prop_trolley_station_floor_collisions
+    400118: props
+    400120: R
+    400122: right_awning
+    400124: S
+    400126: sign
+    400128: sign_front
+    400130: sign_origin
+    400132: signs
+    400134: station_floor
+    400136: step_ground
+    400138: suitPoints
+    400140: T
+    400142: text
+    400144: text 1
+    400146: text 10
+    400148: text 11
+    400150: text 2
+    400152: text 3
+    400154: text 4
+    400156: text 5
+    400158: text 6
+    400160: text 7
+    400162: text 8
+    400164: text 9
+    400166: toontownCentral
+    400168: trigger_chair
+    400170: trigger_chair 1
+    400172: trigger_chair 2
+    400174: trolley
+    400176: trolley_car
+    400178: trolley_sphere
+    400180: //RootNode
+    400182: trolley_top
+    400184: tunnelL
+    400186: tunnelR
+    400188: unnamed1
+    400190: unnamed2
+    400192: Y
+    2300000: awning
+    2300002: back_wheels
+    2300004: back_wheels 1
+    2300006: back_wheels 2
+    2300008: front_fence
+    2300010: front_wheels
+    2300012: front_wheels 1
+    2300014: front_wheels 2
+    2300016: hill_1
+    2300018: key
+    2300020: key 1
+    2300022: key 2
+    2300024: left_awning
+    2300026: o13
+    2300028: o14
+    2300030: o15
+    2300032: o20
+    2300034: o21
+    2300036: o22
+    2300038: o23
+    2300040: o24
+    2300042: o29
+    2300044: platform
+    2300046: platform 1
+    2300048: platform 2
+    2300050: prop_trolley_station_collisions
+    2300052: prop_trolley_station_floor_collisions
+    2300054: right_awning
+    2300056: signs
+    2300058: station_floor
+    2300060: step_ground
+    2300062: text
+    2300064: text 1
+    2300066: text 10
+    2300068: text 11
+    2300070: text 2
+    2300072: text 3
+    2300074: text 4
+    2300076: text 5
+    2300078: text 6
+    2300080: text 7
+    2300082: text 8
+    2300084: text 9
+    2300086: trigger_chair
+    2300088: trigger_chair 1
+    2300090: trigger_chair 2
+    2300092: tunnelL
+    2300094: tunnelR
+    2300096: unnamed2
+    3300000: awning
+    3300002: back_wheels
+    3300004: back_wheels 1
+    3300006: back_wheels 2
+    3300008: front_fence
+    3300010: front_wheels
+    3300012: front_wheels 1
+    3300014: front_wheels 2
+    3300016: hill_1
+    3300018: key
+    3300020: key 1
+    3300022: key 2
+    3300024: left_awning
+    3300026: o13
+    3300028: o14
+    3300030: o15
+    3300032: o20
+    3300034: o21
+    3300036: o22
+    3300038: o23
+    3300040: o24
+    3300042: o29
+    3300044: platform
+    3300046: platform 1
+    3300048: platform 2
+    3300050: prop_trolley_station_collisions
+    3300052: prop_trolley_station_floor_collisions
+    3300054: right_awning
+    3300056: signs
+    3300058: station_floor
+    3300060: step_ground
+    3300062: text
+    3300064: text 1
+    3300066: text 10
+    3300068: text 11
+    3300070: text 2
+    3300072: text 3
+    3300074: text 4
+    3300076: text 5
+    3300078: text 6
+    3300080: text 7
+    3300082: text 8
+    3300084: text 9
+    3300086: trigger_chair
+    3300088: trigger_chair 1
+    3300090: trigger_chair 2
+    3300092: tunnelL
+    3300094: tunnelR
+    3300096: unnamed2
+    4300000: station_floor
+    4300002: awning
+    4300004: front_fence
+    4300006: tunnelR
+    4300008: tunnelL
+    4300010: prop_trolley_station_floor_collisions
+    4300012: prop_trolley_station_collisions
+    4300014: platform
+    4300016: signs
+    4300018: left_awning
+    4300020: right_awning
+    4300022: key
+    4300024: back_wheels
+    4300026: front_wheels
+    4300028: step_ground
+    4300030: trigger_chair
+    4300032: platform
+    4300034: o23
+    4300036: o22
+    4300038: o21
+    4300040: o20
+    4300042: o13
+    4300044: o29
+    4300046: o24
+    4300048: o15
+    4300050: o14
+    4300052: back_wheels
+    4300054: front_wheels
+    4300056: key
+    4300058: trigger_chair
+    4300060: platform
+    4300062: back_wheels
+    4300064: front_wheels
+    4300066: key
+    4300068: trigger_chair
+    4300070: hill_1
+    4300072: unnamed2
+    4300074: text
+    4300076: text
+    4300078: text
+    4300080: text
+    4300082: text
+    4300084: text
+    4300086: text
+    4300088: text
+    4300090: text
+    4300092: text
+    4300094: text
+    4300096: text
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

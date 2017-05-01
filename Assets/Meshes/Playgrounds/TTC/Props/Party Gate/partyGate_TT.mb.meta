@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: cfff8746cfdf54f4ba79a7ba488ea853
+timeCreated: 1492127390
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm
+    100002: arm 1
+    100004: banister_left_mesh
+    100006: banister_right_mesh
+    100008: base
+    100010: base 1
+    100012: clock_flat
+    100014: clockText_locator
+    100016: collision
+    100018: collision 1
+    100020: collision_grp
+    100022: curvedPole_left_mesh1
+    100024: curvedPole_left_mesh2
+    100026: curvedPole_left_mesh3
+    100028: curvedPole_left_mesh4
+    100030: curvedPole_right_mesh1
+    100032: curvedPole_right_mesh2
+    100034: curvedPole_right_mesh3
+    100036: curvedPole_right_mesh4
+    100038: curvedPoleBall_left1
+    100040: curvedPoleBall_left2
+    100042: curvedPoleBall_left3
+    100044: curvedPoleBall_left4
+    100046: curvedPoleBall_right1
+    100048: curvedPoleBall_right2
+    100050: curvedPoleBall_right3
+    100052: curvedPoleBall_right4
+    100054: fenceFlat_left_mesh1
+    100056: fenceFlat_left_mesh2
+    100058: fenceFlat_left_mesh3
+    100060: fenceFlat_left_mesh4
+    100062: fenceFlat_left_mesh5
+    100064: fenceFlat_right_mesh1
+    100066: fenceFlat_right_mesh2
+    100068: fenceFlat_right_mesh3
+    100070: fenceFlat_right_mesh4
+    100072: fenceFlat_right_mesh5
+    100074: ground_collision
+    100076: ground_left_mesh
+    100078: ground_mesh
+    100080: ground_right_mesh
+    100082: groundPlane
+    100084: hand
+    100086: hand 1
+    100088: hat_mesh
+    100090: hatFlat
+    100092: hatTop_flat
+    100094: mesh_grp
+    100096: party_person_left
+    100098: party_person_right
+    100100: partyGate_collision
+    100102: partyGate_grp
+    100104: partyGate_locators
+    100106: partyGate_stepsLocator
+    100108: //RootNode
+    100110: partyGateSignGroup
+    100112: Please_Dont_Delete_MyImmerse_Export_Options
+    100114: post
+    100116: post 1
+    100118: railing_left
+    100120: railing_right
+    100122: shadow
+    100124: shadow 1
+    100126: sign
+    100128: sign 1
+    100130: signL
+    100132: signR
+    100134: signTextL_locatorBack
+    100136: signTextL_locatorFront
+    100138: signTextR_locatorBack
+    100140: signTextR_locatorFront
+    100142: stairPole_left_mesh1
+    100144: stairPole_left_mesh2
+    100146: stairPole_right_mesh1
+    100148: stairPole_right_mesh2
+    100150: stairs_mesh
+    400000: arm
+    400002: arm 1
+    400004: banister_left_mesh
+    400006: banister_right_mesh
+    400008: base
+    400010: base 1
+    400012: clock_flat
+    400014: clockText_locator
+    400016: collision
+    400018: collision 1
+    400020: collision_grp
+    400022: curvedPole_left_mesh1
+    400024: curvedPole_left_mesh2
+    400026: curvedPole_left_mesh3
+    400028: curvedPole_left_mesh4
+    400030: curvedPole_right_mesh1
+    400032: curvedPole_right_mesh2
+    400034: curvedPole_right_mesh3
+    400036: curvedPole_right_mesh4
+    400038: curvedPoleBall_left1
+    400040: curvedPoleBall_left2
+    400042: curvedPoleBall_left3
+    400044: curvedPoleBall_left4
+    400046: curvedPoleBall_right1
+    400048: curvedPoleBall_right2
+    400050: curvedPoleBall_right3
+    400052: curvedPoleBall_right4
+    400054: fenceFlat_left_mesh1
+    400056: fenceFlat_left_mesh2
+    400058: fenceFlat_left_mesh3
+    400060: fenceFlat_left_mesh4
+    400062: fenceFlat_left_mesh5
+    400064: fenceFlat_right_mesh1
+    400066: fenceFlat_right_mesh2
+    400068: fenceFlat_right_mesh3
+    400070: fenceFlat_right_mesh4
+    400072: fenceFlat_right_mesh5
+    400074: ground_collision
+    400076: ground_left_mesh
+    400078: ground_mesh
+    400080: ground_right_mesh
+    400082: groundPlane
+    400084: hand
+    400086: hand 1
+    400088: hat_mesh
+    400090: hatFlat
+    400092: hatTop_flat
+    400094: mesh_grp
+    400096: party_person_left
+    400098: party_person_right
+    400100: partyGate_collision
+    400102: partyGate_grp
+    400104: partyGate_locators
+    400106: partyGate_stepsLocator
+    400108: //RootNode
+    400110: partyGateSignGroup
+    400112: Please_Dont_Delete_MyImmerse_Export_Options
+    400114: post
+    400116: post 1
+    400118: railing_left
+    400120: railing_right
+    400122: shadow
+    400124: shadow 1
+    400126: sign
+    400128: sign 1
+    400130: signL
+    400132: signR
+    400134: signTextL_locatorBack
+    400136: signTextL_locatorFront
+    400138: signTextR_locatorBack
+    400140: signTextR_locatorFront
+    400142: stairPole_left_mesh1
+    400144: stairPole_left_mesh2
+    400146: stairPole_right_mesh1
+    400148: stairPole_right_mesh2
+    400150: stairs_mesh
+    2300000: arm
+    2300002: arm 1
+    2300004: banister_left_mesh
+    2300006: banister_right_mesh
+    2300008: base
+    2300010: base 1
+    2300012: clock_flat
+    2300014: collision
+    2300016: collision 1
+    2300018: curvedPole_left_mesh1
+    2300020: curvedPole_left_mesh2
+    2300022: curvedPole_left_mesh3
+    2300024: curvedPole_left_mesh4
+    2300026: curvedPole_right_mesh1
+    2300028: curvedPole_right_mesh2
+    2300030: curvedPole_right_mesh3
+    2300032: curvedPole_right_mesh4
+    2300034: curvedPoleBall_left1
+    2300036: curvedPoleBall_left2
+    2300038: curvedPoleBall_left3
+    2300040: curvedPoleBall_left4
+    2300042: curvedPoleBall_right1
+    2300044: curvedPoleBall_right2
+    2300046: curvedPoleBall_right3
+    2300048: curvedPoleBall_right4
+    2300050: fenceFlat_left_mesh1
+    2300052: fenceFlat_left_mesh2
+    2300054: fenceFlat_left_mesh3
+    2300056: fenceFlat_left_mesh4
+    2300058: fenceFlat_left_mesh5
+    2300060: fenceFlat_right_mesh1
+    2300062: fenceFlat_right_mesh2
+    2300064: fenceFlat_right_mesh3
+    2300066: fenceFlat_right_mesh4
+    2300068: fenceFlat_right_mesh5
+    2300070: ground_collision
+    2300072: ground_left_mesh
+    2300074: ground_mesh
+    2300076: ground_right_mesh
+    2300078: groundPlane
+    2300080: hand
+    2300082: hand 1
+    2300084: hat_mesh
+    2300086: hatFlat
+    2300088: hatTop_flat
+    2300090: partyGate_collision
+    2300092: post
+    2300094: post 1
+    2300096: railing_left
+    2300098: railing_right
+    2300100: shadow
+    2300102: shadow 1
+    2300104: sign
+    2300106: sign 1
+    2300108: stairPole_left_mesh1
+    2300110: stairPole_left_mesh2
+    2300112: stairPole_right_mesh1
+    2300114: stairPole_right_mesh2
+    2300116: stairs_mesh
+    3300000: arm
+    3300002: arm 1
+    3300004: banister_left_mesh
+    3300006: banister_right_mesh
+    3300008: base
+    3300010: base 1
+    3300012: clock_flat
+    3300014: collision
+    3300016: collision 1
+    3300018: curvedPole_left_mesh1
+    3300020: curvedPole_left_mesh2
+    3300022: curvedPole_left_mesh3
+    3300024: curvedPole_left_mesh4
+    3300026: curvedPole_right_mesh1
+    3300028: curvedPole_right_mesh2
+    3300030: curvedPole_right_mesh3
+    3300032: curvedPole_right_mesh4
+    3300034: curvedPoleBall_left1
+    3300036: curvedPoleBall_left2
+    3300038: curvedPoleBall_left3
+    3300040: curvedPoleBall_left4
+    3300042: curvedPoleBall_right1
+    3300044: curvedPoleBall_right2
+    3300046: curvedPoleBall_right3
+    3300048: curvedPoleBall_right4
+    3300050: fenceFlat_left_mesh1
+    3300052: fenceFlat_left_mesh2
+    3300054: fenceFlat_left_mesh3
+    3300056: fenceFlat_left_mesh4
+    3300058: fenceFlat_left_mesh5
+    3300060: fenceFlat_right_mesh1
+    3300062: fenceFlat_right_mesh2
+    3300064: fenceFlat_right_mesh3
+    3300066: fenceFlat_right_mesh4
+    3300068: fenceFlat_right_mesh5
+    3300070: ground_collision
+    3300072: ground_left_mesh
+    3300074: ground_mesh
+    3300076: ground_right_mesh
+    3300078: groundPlane
+    3300080: hand
+    3300082: hand 1
+    3300084: hat_mesh
+    3300086: hatFlat
+    3300088: hatTop_flat
+    3300090: partyGate_collision
+    3300092: post
+    3300094: post 1
+    3300096: railing_left
+    3300098: railing_right
+    3300100: shadow
+    3300102: shadow 1
+    3300104: sign
+    3300106: sign 1
+    3300108: stairPole_left_mesh1
+    3300110: stairPole_left_mesh2
+    3300112: stairPole_right_mesh1
+    3300114: stairPole_right_mesh2
+    3300116: stairs_mesh
+    4300000: sign
+    4300002: base
+    4300004: post
+    4300006: arm
+    4300008: hand
+    4300010: shadow
+    4300012: collision
+    4300014: sign
+    4300016: base
+    4300018: post
+    4300020: arm
+    4300022: hand
+    4300024: shadow
+    4300026: collision
+    4300028: ground_collision
+    4300030: partyGate_collision
+    4300032: hatFlat
+    4300034: fenceFlat_left_mesh5
+    4300036: fenceFlat_left_mesh1
+    4300038: fenceFlat_left_mesh4
+    4300040: stairs_mesh
+    4300042: railing_left
+    4300044: stairPole_left_mesh1
+    4300046: stairPole_right_mesh2
+    4300048: fenceFlat_left_mesh3
+    4300050: ground_mesh
+    4300052: ground_left_mesh
+    4300054: fenceFlat_left_mesh2
+    4300056: fenceFlat_right_mesh5
+    4300058: fenceFlat_right_mesh4
+    4300060: fenceFlat_right_mesh2
+    4300062: fenceFlat_right_mesh3
+    4300064: fenceFlat_right_mesh1
+    4300066: ground_right_mesh
+    4300068: groundPlane
+    4300070: banister_right_mesh
+    4300072: hat_mesh
+    4300074: hatTop_flat
+    4300076: railing_right
+    4300078: curvedPole_left_mesh4
+    4300080: curvedPole_left_mesh3
+    4300082: curvedPoleBall_left2
+    4300084: curvedPole_right_mesh4
+    4300086: curvedPole_right_mesh3
+    4300088: curvedPoleBall_right2
+    4300090: curvedPole_right_mesh2
+    4300092: curvedPoleBall_right1
+    4300094: curvedPole_right_mesh1
+    4300096: curvedPole_left_mesh2
+    4300098: curvedPoleBall_left1
+    4300100: curvedPole_left_mesh1
+    4300102: stairPole_left_mesh2
+    4300104: curvedPoleBall_left4
+    4300106: curvedPoleBall_left3
+    4300108: stairPole_right_mesh1
+    4300110: curvedPoleBall_right4
+    4300112: curvedPoleBall_right3
+    4300114: banister_left_mesh
+    4300116: clock_flat
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

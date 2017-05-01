@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 68f4d2011d614be4980a1f69a8bcb35a
+timeCreated: 1491611852
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: awning
+    100002: barrel1_2
+    100004: barrel1_3
+    100006: bldg
+    100008: building_front
+    100010: chimney_5
+    100012: collision
+    100014: crates
+    100016: decal_base
+    100018: decal_base 1
+    100020: decal_base 2
+    100022: decal_base 3
+    100024: decal_base 4
+    100026: decal_base1
+    100028: decal_base2
+    100030: decal_base3
+    100032: decal_base4
+    100034: decal_base5
+    100036: decal_base6
+    100038: decal_base7
+    100040: decal_base8
+    100042: decal_base9
+    100044: decals
+    100046: decals 1
+    100048: decals 10
+    100050: decals 11
+    100052: decals 12
+    100054: decals 13
+    100056: decals 2
+    100058: decals 3
+    100060: decals 4
+    100062: decals 5
+    100064: decals 6
+    100066: decals 7
+    100068: decals 8
+    100070: decals 9
+    100072: door_origin
+    100074: firework
+    100076: flat
+    100078: front_top
+    100080: //RootNode
+    100082: hanging_wood
+    100084: hat
+    100086: hold
+    100088: inside
+    100090: middle
+    100092: o2
+    100094: o26
+    100096: o35_1
+    100098: one
+    100100: p740
+    100102: p995
+    100104: post
+    100106: post_1
+    100108: roof
+    100110: rope
+    100112: safe_box
+    100114: safe_dial
+    100116: safebox
+    100118: shadow
+    100120: shadow_crack
+    100122: sides
+    100124: sign
+    100126: sign_origin
+    100128: suit_building_origin
+    100130: three
+    100132: two
+    100134: unnamed1
+    100136: unnamed10
+    100138: unnamed11
+    100140: unnamed12
+    100142: unnamed13
+    100144: unnamed14
+    100146: unnamed15
+    100148: unnamed16
+    100150: unnamed17
+    100152: unnamed18
+    100154: unnamed2
+    100156: unnamed3
+    100158: unnamed4
+    100160: unnamed5
+    100162: unnamed6
+    100164: unnamed7
+    100166: unnamed8
+    100168: unnamed9
+    100170: weight_handle1_uv
+    100172: wood
+    100174: wood_piece
+    400000: awning
+    400002: barrel1_2
+    400004: barrel1_3
+    400006: bldg
+    400008: building_front
+    400010: chimney_5
+    400012: collision
+    400014: crates
+    400016: decal_base
+    400018: decal_base 1
+    400020: decal_base 2
+    400022: decal_base 3
+    400024: decal_base 4
+    400026: decal_base1
+    400028: decal_base2
+    400030: decal_base3
+    400032: decal_base4
+    400034: decal_base5
+    400036: decal_base6
+    400038: decal_base7
+    400040: decal_base8
+    400042: decal_base9
+    400044: decals
+    400046: decals 1
+    400048: decals 10
+    400050: decals 11
+    400052: decals 12
+    400054: decals 13
+    400056: decals 2
+    400058: decals 3
+    400060: decals 4
+    400062: decals 5
+    400064: decals 6
+    400066: decals 7
+    400068: decals 8
+    400070: decals 9
+    400072: door_origin
+    400074: firework
+    400076: flat
+    400078: front_top
+    400080: //RootNode
+    400082: hanging_wood
+    400084: hat
+    400086: hold
+    400088: inside
+    400090: middle
+    400092: o2
+    400094: o26
+    400096: o35_1
+    400098: one
+    400100: p740
+    400102: p995
+    400104: post
+    400106: post_1
+    400108: roof
+    400110: rope
+    400112: safe_box
+    400114: safe_dial
+    400116: safebox
+    400118: shadow
+    400120: shadow_crack
+    400122: sides
+    400124: sign
+    400126: sign_origin
+    400128: suit_building_origin
+    400130: three
+    400132: two
+    400134: unnamed1
+    400136: unnamed10
+    400138: unnamed11
+    400140: unnamed12
+    400142: unnamed13
+    400144: unnamed14
+    400146: unnamed15
+    400148: unnamed16
+    400150: unnamed17
+    400152: unnamed18
+    400154: unnamed2
+    400156: unnamed3
+    400158: unnamed4
+    400160: unnamed5
+    400162: unnamed6
+    400164: unnamed7
+    400166: unnamed8
+    400168: unnamed9
+    400170: weight_handle1_uv
+    400172: wood
+    400174: wood_piece
+    2300000: barrel1_2
+    2300002: barrel1_3
+    2300004: chimney_5
+    2300006: collision
+    2300008: decals
+    2300010: decals 1
+    2300012: decals 10
+    2300014: decals 11
+    2300016: decals 12
+    2300018: decals 2
+    2300020: decals 4
+    2300022: decals 5
+    2300024: decals 6
+    2300026: decals 7
+    2300028: decals 8
+    2300030: decals 9
+    2300032: front_top
+    2300034: hat
+    2300036: hold
+    2300038: inside
+    2300040: middle
+    2300042: o2
+    2300044: o35_1
+    2300046: one
+    2300048: p740
+    2300050: p995
+    2300052: post
+    2300054: post_1
+    2300056: roof
+    2300058: safe_box
+    2300060: safe_dial
+    2300062: shadow
+    2300064: shadow_crack
+    2300066: sides
+    2300068: sign
+    2300070: three
+    2300072: two
+    2300074: unnamed1
+    2300076: unnamed10
+    2300078: unnamed11
+    2300080: unnamed12
+    2300082: unnamed13
+    2300084: unnamed14
+    2300086: unnamed15
+    2300088: unnamed16
+    2300090: unnamed17
+    2300092: unnamed18
+    2300094: unnamed2
+    2300096: unnamed3
+    2300098: unnamed4
+    2300100: unnamed5
+    2300102: unnamed6
+    2300104: unnamed7
+    2300106: unnamed8
+    2300108: unnamed9
+    2300110: weight_handle1_uv
+    2300112: wood
+    2300114: wood_piece
+    3300000: barrel1_2
+    3300002: barrel1_3
+    3300004: chimney_5
+    3300006: collision
+    3300008: decals
+    3300010: decals 1
+    3300012: decals 10
+    3300014: decals 11
+    3300016: decals 12
+    3300018: decals 2
+    3300020: decals 4
+    3300022: decals 5
+    3300024: decals 6
+    3300026: decals 7
+    3300028: decals 8
+    3300030: decals 9
+    3300032: front_top
+    3300034: hat
+    3300036: hold
+    3300038: inside
+    3300040: middle
+    3300042: o2
+    3300044: o35_1
+    3300046: one
+    3300048: p740
+    3300050: p995
+    3300052: post
+    3300054: post_1
+    3300056: roof
+    3300058: safe_box
+    3300060: safe_dial
+    3300062: shadow
+    3300064: shadow_crack
+    3300066: sides
+    3300068: sign
+    3300070: three
+    3300072: two
+    3300074: unnamed1
+    3300076: unnamed10
+    3300078: unnamed11
+    3300080: unnamed12
+    3300082: unnamed13
+    3300084: unnamed14
+    3300086: unnamed15
+    3300088: unnamed16
+    3300090: unnamed17
+    3300092: unnamed18
+    3300094: unnamed2
+    3300096: unnamed3
+    3300098: unnamed4
+    3300100: unnamed5
+    3300102: unnamed6
+    3300104: unnamed7
+    3300106: unnamed8
+    3300108: unnamed9
+    3300110: weight_handle1_uv
+    3300112: wood
+    3300114: wood_piece
+    4300000: middle
+    4300002: unnamed1
+    4300004: decals
+    4300006: sides
+    4300008: front_top
+    4300010: unnamed2
+    4300012: decals
+    4300014: unnamed3
+    4300016: decals
+    4300018: shadow
+    4300020: one
+    4300022: unnamed4
+    4300024: unnamed5
+    4300026: unnamed6
+    4300028: two
+    4300030: unnamed7
+    4300032: decals
+    4300034: three
+    4300036: barrel1_2
+    4300038: barrel1_3
+    4300040: p995
+    4300042: wood_piece
+    4300044: weight_handle1_uv
+    4300046: shadow_crack
+    4300048: o2
+    4300050: chimney_5
+    4300052: roof
+    4300054: hat
+    4300056: sign
+    4300058: wood
+    4300060: hold
+    4300062: p740
+    4300064: safe_dial
+    4300066: safe_box
+    4300068: unnamed8
+    4300070: decals
+    4300072: unnamed9
+    4300074: decals
+    4300076: unnamed10
+    4300078: decals
+    4300080: unnamed11
+    4300082: decals
+    4300084: unnamed12
+    4300086: decals
+    4300088: unnamed13
+    4300090: decals
+    4300092: unnamed14
+    4300094: decals
+    4300096: unnamed15
+    4300098: decals
+    4300100: unnamed16
+    4300102: unnamed17
+    4300104: unnamed18
+    4300106: inside
+    4300108: o35_1
+    4300110: post
+    4300112: post_1
+    4300114: collision
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
